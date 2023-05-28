@@ -24,3 +24,12 @@
 		display: none;
 	}
 }
+
+/*imagen principal*/
+
+#imagen{
+	height: 500px;
+	max-width: 100%;
+	object-fit: cover;
+	object-position: 20% 40%;
+}
