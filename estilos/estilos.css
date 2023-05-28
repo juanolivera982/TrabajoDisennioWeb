@@ -1,0 +1,26 @@
+.contenedor-cartas{
+	display: flex;
+}
+
+.card{
+	margin: 1em;
+	width: calc(100%/3);
+	box-shadow: 2px 6px 8px 0 #bcbcbc;
+}
+
+#carouselExampleControls{
+	background-color: #eeeeee; 
+	margin: 0.5em 0;
+	width: 100vw;
+ 	position: relative;
+ 	left: 50%;
+ 	right: 50%;
+ 	margin-left: -50vw;
+ 	margin-right: -50vw;
+}
+
+@media screen and (max-width: 576px){
+	.card:not(:first-child){
+		display: none;
+	}
+}
