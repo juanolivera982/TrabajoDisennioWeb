@@ -1,12 +1,12 @@
-var imagenes = ['people-13554972.jpg', 'img1.jpg','img2.jpg','img3.jpg','img4.jpg','img5.jpg','img6.jpg','img7.jpg','img8.jpg','img9.jpg'];
+var imagenes = ['imgFutbol.jpg', 'imgTenis.jpg','imgVolley.jpg','imgBasket.jpg','imgHandBall.jpg','imgNatacion.jpg','imgAjedrez.jpg','imgBox.jpg','imgKarate.jpg'];
 var dirImagenes = "./imagenes/";
-var i = 0;
+var i = 1;
 
 function iniciar()
 {
 
 	var img = document.getElementById("imagen");
-	img.src = dirImagenes + imagenes[i];
+	//img.src = dirImagenes + imagenes[i];
 	function cambiar()
 	{
 		img.style.opacity = 0;
