@@ -8,9 +8,8 @@
 	box-shadow: 2px 6px 8px 0 #bcbcbc;
 }
 
-#carouselExampleControls{
+#carrucel{
 	background-color: #eeeeee; 
-	margin: 0.5em 0;
 	width: 100vw;
  	position: relative;
  	left: 50%;
@@ -19,8 +18,22 @@
  	margin-right: -50vw;
 }
 
-@media screen and (max-width: 576px){
-	.card:not(:first-child){
-		display: none;
-	}
+/*imagen principal*/
+#imagen{
+	height: 400px;
+	max-width: 100%;
+	object-fit: cover;/*recortamos la imagen*/
+	object-position: 30% 40%;
 }
+
+#contenedorImagePrincipal{
+	position: relative;
+}
+#logoColor{
+	width: 15%;
+	height: auto;
+	position: absolute;
+	right: 45%;
+	top: 30%;
+}
+
