@@ -20,7 +20,7 @@
 
 /*imagen principal*/
 #imagen{
-	height: 350px;
+	height: 400px;
 	width: 100%;
 	object-fit: cover;/*recortamos la imagen*/
 	object-position: 30% 40%;
