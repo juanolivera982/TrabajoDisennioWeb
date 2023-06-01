@@ -1,0 +1,67 @@
+.item{
+	display: block;
+	margin: 10px;
+}
+
+#genero-select{
+	display: none;
+}
+
+#contenedorFormulario{
+	position: relative;
+	display: inline-block;
+	width: 100%;
+	text-align: center;
+}
+
+#formularioInscripcion{
+	display: inline-block;
+
+	text-align: left;
+	color: #FFFFFF;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	width: 50%;
+	border-radius: 10px;
+	background-color: #212529;
+}
+
+.botonRadio{
+	display: inline;
+}
+
+
+@media (max-width: 750px){
+
+	#contenedorFormulario{
+		position: relative;
+		display: inline-block;
+		width: 100%;
+		background-color: #212529;
+		overflow: auto;
+		margin-bottom: 0;
+	}
+
+	#formularioInscripcion{
+		width: 100%;
+		border-radius: 0;
+		margin-left: -40px;
+		margin-right: -40px;
+		padding: 0;
+	}
+	.item{
+		margin-right: -100px;
+		padding: 5px;
+		text-align: center;
+		width: 92%;
+	}
+
+	#genero-select{
+		display: inline;
+	}
+	#genero-radio{
+		display: none;
+	}
+}
