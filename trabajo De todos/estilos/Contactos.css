@@ -1,0 +1,48 @@
+body{
+    background-color:#0b0829;
+}
+
+/*Estylos Asides*/
+.asideContactos{
+	padding:0;
+	background-color: initial;
+}
+#imgAside1{
+	height:100%;
+	padding-left:5px;
+}
+#imgAside2{
+	height: 100%;
+	padding-right:5px;
+
+}
+/*Fin estilos Asides*/
+
+/*Estilos Contactos*/
+#contactos{
+	display: flex;
+	align-items: center;
+	background-color: initial;
+	justify-content: flex-start;
+	padding:0 .5rem;
+	padding-bottom:.5rem;
+}
+#imgContactos{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+#imgContactos img{
+	width: 100%;
+	padding-right: .5rem;
+}
+.formulario_contactos{
+	height: auto;
+	color:#fff;
+	margin:0;
+	padding: 10px 0;
+}
+.formulario_contactos form .mb-3{
+	width: 100%;
+}
+/*Fin estilos Contactos*/
