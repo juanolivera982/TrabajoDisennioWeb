@@ -16,7 +16,7 @@ body{
     display: flex;
     padding: 2px;
     width: 80%;
-    background-color: #bebebe;
+    background-color: #2a2a2a;
 }
 
 .conten2 .img img{
@@ -27,8 +27,9 @@ body{
     padding: 4px;
     font-size: 30px;
     font-family: 'Gill Sans';
+    color: #fafafa;
 }
-.conten2 .text .creador{font-family: sans-serif;}
+.conten2 .text .creador{font-family: sans-serif;color: #fafafa;}
 .cardMayor{
     display: flex;
     font-family: sans-serif;
