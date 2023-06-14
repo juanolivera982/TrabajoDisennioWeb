@@ -1,0 +1,55 @@
+[
+    {
+    "precidente":"Gonzalo Grimaldi",
+    "vice":"Daniela Grimaldi",
+    "viceSegundo":"Lucas Grimaldi",
+    "secretario":"Lucas Grimaldi",
+    "tesorero":"Lucas Grimaldi",
+    "vocales1":"miguel Grimaldi",
+    "vocales2":"nahuel Grimaldi",
+    "vocales3":"miguel Ansorena",
+
+    "directorTecnico":"Varela Osmar",
+    "ayudanteTecnico":"Almiron ricardo",
+    "directorTecnicoReserva":"Olmedo jorge",
+    "profesor05":"lucas",
+    "profesor07":"franco",
+    "profesor12":"solano",
+    "profesor17":"Martinez julian",
+    
+    "directorTecnicoVoley":"Varela tomas",
+    "ayudanteTecnicoVoley":"Almiron ojeda",
+    "directorTecnicoReservaVoley":"Olmedo santi",
+    "profesorVoley":"lukas",
+    
+    "directorTecnicoBas":"santi",
+    "directorTecnicoReservaBas":"Olmedo ",
+    "profesorBas":"Jhon",
+   
+    "directorTecnicoHan":"santi strange",
+    "profesorHombres":"Olmedo castroso ",
+    "profesorMujeres":"Romina",
+
+    "profesorHombresTen":"Santiago Varela ",
+    "profesorMujeresTen":"Romina",
+
+    "profesorMayores":"Neymar Jose",
+    "profesor1Nata":"jose Jose",
+    "profesor2Nata":"jhon Sena",
+
+    "profesor1Aje":"Luna ",
+    "profesor2Aje":"Silva",
+
+    "directorTecnicoHok":"Ochoa gabriel",
+    "profesorHok":"Sabrina Dominguez",
+
+    "profesorMayoresBox":"Romina Cesar",
+    "ayudanteMayoresBox":"Almiron Danilo",
+    "profesorBox":"Jhon Silva",
+
+    "profesorMayoresKar":"Olmedo",
+    "ayudanteMayoresKar":"Almiron Ricardo",
+    "profesorKar":"lucas junior"
+    }
+
+]
