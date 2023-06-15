@@ -1,0 +1,14 @@
+basquetImgs([
+    {
+        "imagen":"https://fotos.perfil.com/2020/04/29/trim/1140/641/caslabasquet0429-947913.jpg"
+    },
+    {
+        "imagen":"../../imagenes/basquet/sunset-5383040_1280.jpg"
+    },
+    {
+        "imagen":"https://1.bp.blogspot.com/-ZbugJICLqRI/XXEst80f71I/AAAAAAAAAMU/Qrn-TZxlMDYn3oc7XhJ4Hy2VRrQ50-mCQCLcBGAs/s1600/basquet%2Bformativo.jpeg"
+    },
+    {
+        "imagen":"../../imagenes/imgBasket.jpg"
+    }
+]);

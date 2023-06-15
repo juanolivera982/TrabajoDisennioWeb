@@ -1,0 +1,639 @@
+noticias([
+    {
+        "titulo":"Noticia 1 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"general"
+    },
+    {
+        "titulo":"Noticia 2",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"futbol"
+    },
+    {
+        "titulo":"Noticia 3",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"voley"
+    },
+    {
+        "titulo":"Noticia 4",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"basquet"
+    },
+    {
+        "titulo":"Noticia 5",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"handball"
+    },
+    {
+        "titulo":"Noticia 6",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"tenis"
+    },
+    {
+        "titulo":"Noticia 7",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"natacion"
+    },
+    {
+        "titulo":"Noticia 8",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"hockeySobreCesped"
+    },
+    {
+        "titulo":"Noticia 9",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"ajedrez"
+    },
+    {
+        "titulo":"Noticia 10",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"boxeo"
+    },
+    {
+        "titulo":"Noticia 11",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"karate"
+    },
+    {
+        "titulo":"Noticia 4",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"basquet"
+    },
+    {
+        "titulo":"Noticia 6",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"tenis"
+    },
+    {
+        "titulo":"Noticia 1 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"general"
+    },
+    {
+        "titulo":"Noticia 5",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"handball"
+    },
+    {
+        "titulo":"Noticia 7",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"natacion"
+    },
+    {
+        "titulo":"Noticia 2",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"futbol"
+    },
+    {
+        "titulo":"Noticia 3",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"voley"
+    },
+    {
+        "titulo":"Noticia 11",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"karate"
+    },
+    {
+        "titulo":"Noticia 9",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"ajedrez"
+    },
+    {
+        "titulo":"Noticia 10",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"boxeo"
+    },
+    {
+        "titulo":"Noticia 4",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"basquet"
+    },
+    {
+        "titulo":"Noticia 3",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"voley"
+    },
+    {
+        "titulo":"Noticia 1 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"general"
+    },
+    {
+        "titulo":"Noticia 8",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"hockeySobreCesped"
+    },
+    {
+        "titulo":"Noticia 6",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"tenis"
+    },
+    {
+        "titulo":"Noticia 7",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"natacion"
+    },
+    {
+        "titulo":"Noticia 10",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"boxeo"
+    },
+    {
+        "titulo":"Noticia 4",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"basquet"
+    },
+    {
+        "titulo":"Noticia 11",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"karate"
+    },
+    {
+        "titulo":"Noticia 2",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"futbol"
+    },
+    {
+        "titulo":"Noticia 9",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"ajedrez"
+    },
+    {
+        "titulo":"Noticia 5",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"handball"
+    },
+    {
+        "titulo":"Noticia 10",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"boxeo"
+    },
+    {
+        "titulo":"Noticia 6",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"tenis"
+    },
+    {
+        "titulo":"Noticia 3",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"voley"
+    },
+    {
+        "titulo":"Noticia 8",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"hockeySobreCesped"
+    },
+    {
+        "titulo":"Noticia 7",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"natacion"
+    },
+    {
+        "titulo":"Noticia 11",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"karate"
+    },
+    {
+        "titulo":"Noticia 8",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"hockeySobreCesped"
+    },
+    {
+        "titulo":"Noticia 2",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"futbol"
+    },
+    {
+        "titulo":"Noticia 1 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"general"
+    },
+    {
+        "titulo":"Noticia 10",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"boxeo"
+    },
+    {
+        "titulo":"Noticia 9",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"ajedrez"
+    },
+    {
+        "titulo":"Noticia 11",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"karate"
+    },
+    {
+        "titulo":"Noticia 5",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"handball"
+    },
+    {
+        "titulo":"Noticia 4",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"basquet"
+    },
+    {
+        "titulo":"Noticia 6",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"tenis"
+    },
+    {
+        "titulo":"Noticia 9",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"ajedrez"
+    },
+    {
+        "titulo":"Noticia 3",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"voley"
+    },
+    {
+        "titulo":"Noticia 11",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"karate"
+    },
+    {
+        "titulo":"Noticia 4",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"basquet"
+    },
+    {
+        "titulo":"Noticia 8",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"hockeySobreCesped"
+    },
+    {
+        "titulo":"Noticia 2",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"futbol"
+    },
+    {
+        "titulo":"Noticia 10",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"boxeo"
+    },
+    {
+        "titulo":"Noticia 7",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"natacion"
+    },
+    {
+        "titulo":"Noticia 5",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"handball"
+    },
+    {
+        "titulo":"Noticia 1 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"general"
+    },
+    {
+        "titulo":"Noticia 11",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"karate"
+    },
+    {
+        "titulo":"Noticia 4",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"basquet"
+    },
+    {
+        "titulo":"Noticia 3",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"voley"
+    },
+    {
+        "titulo":"Noticia 9",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"ajedrez"
+    },
+    {
+        "titulo":"Noticia 2",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"futbol"
+    },
+    {
+        "titulo":"Noticia 6",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"tenis"
+    },
+    {
+        "titulo":"Noticia 5",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"handball"
+    },
+    {
+        "titulo":"Noticia 8",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"hockeySobreCesped"
+    },
+    {
+        "titulo":"Noticia 4",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"basquet"
+    },
+    {
+        "titulo":"Noticia 6",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"tenis"
+    },
+    {
+        "titulo":"Noticia 7",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"natacion"
+    },
+    {
+        "titulo":"Noticia 10",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"boxeo"
+    },
+    {
+        "titulo":"Noticia 11",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"karate"
+    },
+    {
+        "titulo":"Noticia 9",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"ajedrez"
+    },
+    {
+        "titulo":"Noticia 3",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"voley"
+    },
+    {
+        "titulo":"Noticia 4",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"basquet"
+    },
+    {
+        "titulo":"Noticia 5",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"handball"
+    },
+    {
+        "titulo":"Noticia 9",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"ajedrez"
+    },
+    {
+        "titulo":"Noticia 5",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"handball"
+    },
+    {
+        "titulo":"Noticia 11",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"karate"
+    },
+    {
+        "titulo":"Noticia 3",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"voley"
+    },
+    {
+        "titulo":"Noticia 10",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"boxeo"
+    },
+    {
+        "titulo":"Noticia 2",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"futbol"
+    },
+    {
+        "titulo":"Noticia 1 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"general"
+    },
+    {
+        "titulo":"Noticia 6",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"tenis"
+    },
+    {
+        "titulo":"Noticia 11",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"karate"
+    },
+    {
+        "titulo":"Noticia 7",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"natacion"
+    },
+    {
+        "titulo":"Noticia 10",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"boxeo"
+    },
+    {
+        "titulo":"Noticia 9",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"ajedrez"
+    },
+    {
+        "titulo":"Noticia 8",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"hockeySobreCesped"
+    },
+    {
+        "titulo":"Noticia 11",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"karate"
+    },
+    {
+        "titulo":"Noticia 3",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"voley"
+    },
+    {
+        "titulo":"Noticia 7",
+        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "fecha":"14/06/2023",
+        "hora":"13:16",
+        "tipo":"natacion"
+    },
+]);

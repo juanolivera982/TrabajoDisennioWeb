@@ -1,0 +1,14 @@
+ajedrezImgs([
+    {
+        "imagen":"../../imagenes/imgAjedrez.jpg"
+    },
+    {
+        "imagen":"https://culturacientifica.com/app/uploads/2017/05/file-20170508-20740-5q2zmi.jpeg"
+    },
+    {
+        "imagen":"https://www.las2orillas.co/wp-content/uploads/2014/10/ajedrez-utsedumx.jpg"
+    },
+    {
+        "imagen":"https://cedec.intef.es/wp-content/uploads/2019/06/ajedrez.jpg"
+    }
+]);

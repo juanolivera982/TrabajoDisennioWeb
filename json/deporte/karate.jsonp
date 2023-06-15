@@ -1,0 +1,17 @@
+karateImgs([
+    {
+        "imagen":"../../imagenes/karate.jpg"
+    },
+    {
+        "imagen":"../../imagenes/imgKarate.jpg"
+    },
+    {
+        "imagen":"https://ska.org/wp-content/uploads/2011/02/img_1553.jpg"
+    },
+    {
+        "imagen":"../../imagenes/karate/karate-1665606_1280.jpg"
+    },
+    {
+        "imagen":"https://karate.ucsd.edu/wp-content/uploads/2015/11/cropped-IMG_1868.jpg"
+    }
+]);

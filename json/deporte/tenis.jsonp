@@ -1,0 +1,17 @@
+tenisImgs([
+    {
+        "imagen":"../../imagenes/imgTenis.jpg"
+    },
+    {
+        "imagen":"../../imagenes/tenis-poster.jpg"
+    },
+    {
+        "imagen":"../../imagenes/tennis.jpg"
+    },
+    {
+        "imagen":"../../imagenes/tenis/engineer-4922781_1280.jpg"
+    },
+    {
+        "imagen":"../../imagenes/tenis/tennis-841172_1280.jpg"
+    }
+]);

@@ -1,0 +1,14 @@
+natacionImgs([
+    {
+        "imagen":"../../imagenes/imgNatacion.jpg"
+    },
+    {
+        "imagen":"http://sialdeporte.com/wp-content/uploads/2018/03/que-es-la-nataci%C3%B3n7-1024x651.jpg"
+    },
+    {
+        "imagen":"https://www.camerinocr.com/wp-content/uploads/2020/10/IMG_8910.jpg"
+    },
+    {
+        "imagen":"http://sialdeporte.com/wp-content/uploads/2018/03/natacion-para-principiantes-9.jpg"
+    }
+]);

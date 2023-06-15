@@ -1,0 +1,11 @@
+boxeoImgs([
+    {
+        "imagen":"../../imagenes/imgBox.jpg"
+    },
+    {
+        "imagen":"../../imagenes/boxing.jpg"
+    },
+    {
+        "imagen":"../../imagenes/boxeo/boxing-62867_1280.jpg"
+    }
+]);

@@ -1,0 +1,17 @@
+futbolImgs([
+    {
+        "imagen":"../../imagenes/futbol/boy-7056003_1280.jpg"
+    },
+    {
+        "imagen":"../../imagenes/futbol/child-613199_1280.jpg"
+    },
+    {
+        "imagen":"../../imagenes/futbol/soccer-263716_1280.jpg"
+    },
+    {
+        "imagen":"../../imagenes/futbol/sports-7405499_1280.jpg"
+    },
+    {
+        "imagen":"../../imagenes/imgFutbol.jpg"
+    }
+]);

@@ -1,0 +1,17 @@
+handballImgs([
+    {
+        "imagen":"../../imagenes/imgHandBall.jpg"
+    },
+    {
+        "imagen":"http://www.saskhandball.com/uploads/4/0/4/1/40412913/published/handball-5_1.jpg?1527703207"
+    },
+    {
+        "imagen":"https://www.heimatecho.de/wp-content/uploads/2021/06/Handball_Kids_draussen_pixabay-864x380.jpg"
+    },
+    {
+        "imagen":"https://www.llrhb.org/wp-content/uploads/handball-children-768x404.jpg"
+    },
+    {
+        "imagen":"../../imagenes/hanball/ball-4855883_1280.jpg"
+    }
+]);

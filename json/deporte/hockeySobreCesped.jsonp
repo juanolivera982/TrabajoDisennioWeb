@@ -1,0 +1,14 @@
+hockeySobreCespedImgs([
+    {
+        "imagen":"../../imagenes/hokey cesped/field-hockey-1537470_1280.jpg"
+    },
+    {
+        "imagen":"https://2.bp.blogspot.com/-dxGevTvia9Q/WTU9aiyCM0I/AAAAAAABoew/uuntiCykUBMuzio7sGBYGmcH1YQwpNdiACLcB/w1200-h630-p-k-no-nu/ARCHIVO%2Bcab%2Bcba%2B1.jpg"
+    },
+    {
+        "imagen":"https://i.ytimg.com/vi/8N7OdlLiWag/maxresdefault.jpg"
+    },
+    {
+        "imagen":"http://deportedigital.com.ar/wp-content/uploads/2021/04/Hockey-LHCSE-ATE-JC-1-1536x852.jpg"
+    }
+]);
