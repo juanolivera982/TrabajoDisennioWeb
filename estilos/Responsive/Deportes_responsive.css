@@ -1,0 +1,30 @@
+/* Para 780px */
+@media screen and (max-width: 780px){
+    section .tarjetas .card{
+        width: 47%;
+        margin: 1rem 1.5%;
+    }
+}
+
+/* para 625*/
+@media screen and (max-width: 625px){
+    section .asideDeporte{
+        display:none;
+    }
+    section .col-8{
+        width: 100%;
+    }
+    section .tarjetas{
+        width:80%;
+        margin:auto;
+    }
+    section .tarjetas .card{
+        width: 97%;
+        margin: 1rem auto;
+    }
+}
+
+/* para 480 */
+@media screen and (max-width: 480px){
+    
+}
