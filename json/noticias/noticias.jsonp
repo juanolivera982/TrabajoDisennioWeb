@@ -14,78 +14,71 @@ noticias([
         "tipo":"futbol"
     },
     {
-        "titulo":"Noticia 3",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "titulo":"nadie se quiere hacer cargo",
+        "cuerpo":"Despues de la derrota hubo un tumulto de chicos que se largaron a pelear a puño limpio.",
         "fecha":"14/06/2023",
         "hora":"13:16",
         "tipo":"voley"
     },
     {
-        "titulo":"Noticia 4",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "titulo":"Una promesa podra ser drafteado para la NBA",
+        "cuerpo":"el joven carmelo anthony despues de un gran torneo nacional,fue elegido por visores de la NBA para ser elegido en el DRAFT'23 de la NBA",
         "fecha":"14/06/2023",
         "hora":"13:16",
         "tipo":"basquet"
     },
     {
-        "titulo":"Noticia 5",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "titulo":"Despues de perder",
+        "cuerpo":"Despues de perder, la pantilla (con varios suplentes) se lanzaron contra el arbitro,",
         "fecha":"14/06/2023",
         "hora":"13:16",
         "tipo":"handball"
     },
     {
-        "titulo":"Noticia 6",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "titulo":"Otro titulo",
+        "cuerpo":"Otro titulo más para el maximo campeon reguional,lo bueno es que lo tenemos aca, en nuestro equipo",
         "fecha":"14/06/2023",
         "hora":"13:16",
         "tipo":"tenis"
     },
     {
-        "titulo":"Noticia 7",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "titulo":"no hay noticias hace meses",
+        "cuerpo":"no hay noticias hace meses, eso preocupa a los nadadores",
         "fecha":"14/06/2023",
         "hora":"13:16",
         "tipo":"natacion"
     },
     {
-        "titulo":"Noticia 8",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "titulo":"otra derrota",
+        "cuerpo":"otra derrota más para el quipo",
         "fecha":"14/06/2023",
         "hora":"13:16",
         "tipo":"hockeySobreCesped"
     },
     {
-        "titulo":"Noticia 9",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "titulo":"Alejandro Bottero",
+        "cuerpo":"Alejandro Bottero, vueve despues de haber sido cambeon nacional de Ajedrez",
         "fecha":"14/06/2023",
         "hora":"13:16",
         "tipo":"ajedrez"
     },
     {
-        "titulo":"Noticia 10",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "titulo":"Ortiz se queda sin chances",
+        "cuerpo":"El boxeador Ortiz el MARABILLA se perdion contra el Colombiano Juan dominguez y quedo sin chances para disputar el titulo de campeon",
         "fecha":"14/06/2023",
         "hora":"13:16",
         "tipo":"boxeo"
     },
     {
-        "titulo":"Noticia 11",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
-        "tipo":"karate"
-    },
-    {
-        "titulo":"Noticia 4",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "titulo":"Una promesa podra ser drafteado para la NBA",
+        "cuerpo":"el joven carmelo anthony despues de un gran torneo nacional,fue elegido por visores de la NBA para ser elegido en el DRAFT'23 de la NBA",
         "fecha":"14/06/2023",
         "hora":"13:16",
         "tipo":"basquet"
     },
     {
-        "titulo":"Noticia 6",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "titulo":"campeon reguional",
+        "cuerpo":"Otro titulo más para el maximo campeon reguional,lo bueno es que lo tenemos aca, en nuestro equipo",
         "fecha":"14/06/2023",
         "hora":"13:16",
         "tipo":"tenis"
@@ -98,15 +91,15 @@ noticias([
         "tipo":"general"
     },
     {
-        "titulo":"Noticia 5",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "titulo":"Despues de perder",
+        "cuerpo":"Despues de perder, la pantilla (con varios suplentes) se lanzaron contra el arbitro,",
         "fecha":"14/06/2023",
         "hora":"13:16",
         "tipo":"handball"
     },
     {
-        "titulo":"Noticia 7",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "titulo":"preocupa a los nadadores",
+        "cuerpo":"no hay presupuesto, eso preocupa a los nadadores",
         "fecha":"14/06/2023",
         "hora":"13:16",
         "tipo":"natacion"
@@ -119,43 +112,43 @@ noticias([
         "tipo":"futbol"
     },
     {
-        "titulo":"Noticia 3",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "titulo":"nadie se quiere hacer cargo",
+        "cuerpo":"Despues de la derrota hubo un tumulto de chicos que se largaron a pelear a puño limpio.",
         "fecha":"14/06/2023",
         "hora":"13:16",
         "tipo":"voley"
     },
     {
-        "titulo":"Noticia 11",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "titulo":"condiciones del establecimiento",
+        "cuerpo":"los encargados de karate se quejan de las condiciones del establecimiento",
         "fecha":"14/06/2023",
         "hora":"13:16",
         "tipo":"karate"
     },
     {
-        "titulo":"Noticia 9",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "titulo":"Alejandro Bottero",
+        "cuerpo":"Alejandro Bottero",
         "fecha":"14/06/2023",
         "hora":"13:16",
         "tipo":"ajedrez"
     },
     {
-        "titulo":"Noticia 10",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "titulo":"Ortiz se queda sin chances",
+        "cuerpo":"El boxeador Ortiz el MARABILLA se perdion contra el Colombiano Juan dominguez y quedo sin chances para disputar el titulo de campeon",
         "fecha":"14/06/2023",
         "hora":"13:16",
         "tipo":"boxeo"
     },
     {
-        "titulo":"Noticia 4",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "titulo":"Una promesa podra ser drafteado para la NBA",
+        "cuerpo":"el joven carmelo anthony despues de un gran torneo nacional,fue elegido por visores de la NBA para ser elegido en el DRAFT'23 de la NBA",
         "fecha":"14/06/2023",
         "hora":"13:16",
         "tipo":"basquet"
     },
     {
-        "titulo":"Noticia 3",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "titulo":"nadie se quiere hacer cargo",
+        "cuerpo":"Despues de la derrota hubo un tumulto de chicos que se largaron a pelear a puño limpio.",
         "fecha":"14/06/2023",
         "hora":"13:16",
         "tipo":"voley"
@@ -168,43 +161,36 @@ noticias([
         "tipo":"general"
     },
     {
-        "titulo":"Noticia 8",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "titulo":"condiciones del establecimiento",
+        "cuerpo":"otra derrota más para el quipo",
         "fecha":"14/06/2023",
         "hora":"13:16",
         "tipo":"hockeySobreCesped"
     },
     {
-        "titulo":"Noticia 6",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "titulo":"condiciones del establecimiento",
+        "cuerpo":"Otro titulo más para el maximo campeon reguional,lo bueno es que lo tenemos aca, en nuestro equipo",
         "fecha":"14/06/2023",
         "hora":"13:16",
         "tipo":"tenis"
     },
     {
-        "titulo":"Noticia 7",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "titulo":"condiciones del establecimiento",
+        "cuerpo":"no hay noticias hace meses, eso preocupa a los nadadores",
         "fecha":"14/06/2023",
         "hora":"13:16",
         "tipo":"natacion"
     },
     {
-        "titulo":"Noticia 10",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
-        "tipo":"boxeo"
-    },
-    {
-        "titulo":"Noticia 4",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "titulo":"En busca de Nuevos Talentos",
+        "cuerpo":"El dia de ayer se hicieron prubas en diferentes localidades para probar a jovenes y unirlos a club",
         "fecha":"14/06/2023",
         "hora":"13:16",
         "tipo":"basquet"
     },
     {
-        "titulo":"Noticia 11",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "titulo":"condiciones del establecimiento",
+        "cuerpo":"los encargados de karate se quejan de las condiciones del establecimiento",
         "fecha":"14/06/2023",
         "hora":"13:16",
         "tipo":"karate"
@@ -217,20 +203,6 @@ noticias([
         "tipo":"futbol"
     },
     {
-        "titulo":"Noticia 9",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
-        "tipo":"ajedrez"
-    },
-    {
-        "titulo":"Noticia 5",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
-        "tipo":"handball"
-    },
-    {
         "titulo":"Noticia 10",
         "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
         "fecha":"14/06/2023",
@@ -238,43 +210,43 @@ noticias([
         "tipo":"boxeo"
     },
     {
-        "titulo":"Noticia 6",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "titulo":"maximo campeon reguional",
+        "cuerpo":"Otro titulo más para el maximo campeon reguional,lo bueno es que lo tenemos aca, en nuestro equipo",
         "fecha":"14/06/2023",
         "hora":"13:16",
         "tipo":"tenis"
     },
     {
-        "titulo":"Noticia 3",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "titulo":"nadie se quiere hacer cargo",
+        "cuerpo":"Despues de la derrota hubo un tumulto de chicos que se largaron a pelear a puño limpio.",
         "fecha":"14/06/2023",
         "hora":"13:16",
         "tipo":"voley"
     },
     {
-        "titulo":"Noticia 8",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "titulo":"el equipo",
+        "cuerpo":"otra derrota más para el quipo",
         "fecha":"14/06/2023",
         "hora":"13:16",
         "tipo":"hockeySobreCesped"
     },
     {
-        "titulo":"Noticia 7",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "titulo":"no hay noticias hace meses",
+        "cuerpo":"no hay noticias hace meses, eso preocupa a los nadadores",
         "fecha":"14/06/2023",
         "hora":"13:16",
         "tipo":"natacion"
     },
     {
-        "titulo":"Noticia 11",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "titulo":"los encargados de karate",
+        "cuerpo":"los encargados de karate se quejan de las condiciones del establecimiento",
         "fecha":"14/06/2023",
         "hora":"13:16",
         "tipo":"karate"
     },
     {
-        "titulo":"Noticia 8",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "titulo":"los encargados",
+        "cuerpo":"otra derrota más para el quipo",
         "fecha":"14/06/2023",
         "hora":"13:16",
         "tipo":"hockeySobreCesped"
@@ -294,78 +266,71 @@ noticias([
         "tipo":"general"
     },
     {
-        "titulo":"Noticia 10",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "titulo":"importa ganar",
+        "cuerpo":"nada que decir, sobre la pelea, pero gane, y eso es lo que importa",
         "fecha":"14/06/2023",
         "hora":"13:16",
         "tipo":"boxeo"
     },
     {
-        "titulo":"Noticia 9",
+        "titulo":"Alejandro Bottero",
         "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
         "fecha":"14/06/2023",
         "hora":"13:16",
         "tipo":"ajedrez"
     },
     {
-        "titulo":"Noticia 11",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "titulo":"los encargados",
+        "cuerpo":"los encargados de karate festejan que regreso un compañero",
         "fecha":"14/06/2023",
         "hora":"13:16",
         "tipo":"karate"
     },
     {
-        "titulo":"Noticia 5",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "titulo":"gran polemica",
+        "cuerpo":"se pelearon por una boludes",
         "fecha":"14/06/2023",
         "hora":"13:16",
         "tipo":"handball"
     },
     {
-        "titulo":"Noticia 4",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "titulo":"En busca de Nuevos Talentos",
+        "cuerpo":"El dia de ayer se hicieron prubas en diferentes localidades para probar a jovenes y unirlos a club",
         "fecha":"14/06/2023",
         "hora":"13:16",
         "tipo":"basquet"
     },
     {
-        "titulo":"Noticia 6",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "titulo":"lo tenemos aca",
+        "cuerpo":"Otro titulo más para el maximo campeon reguional,lo bueno es que lo tenemos aca, en nuestro equipo",
         "fecha":"14/06/2023",
         "hora":"13:16",
         "tipo":"tenis"
     },
     {
-        "titulo":"Noticia 9",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
-        "tipo":"ajedrez"
-    },
-    {
-        "titulo":"Noticia 3",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "titulo":"nadie se quiere hacer cargo",
+        "cuerpo":"Despues de la derrota hubo un tumulto de chicos que se largaron a pelear a puño limpio.",
         "fecha":"14/06/2023",
         "hora":"13:16",
         "tipo":"voley"
     },
     {
-        "titulo":"Noticia 11",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "titulo":"lo tenemos aca",
+        "cuerpo":"los encargados de karate se quejan de las condiciones del establecimiento",
         "fecha":"14/06/2023",
         "hora":"13:16",
         "tipo":"karate"
     },
     {
-        "titulo":"Noticia 4",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "titulo":"lo tenemos aca",
+        "cuerpo":"sera el mejor de todos",
         "fecha":"14/06/2023",
         "hora":"13:16",
         "tipo":"basquet"
     },
     {
-        "titulo":"Noticia 8",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "titulo":"Derrota derrota derrota",
+        "cuerpo":"otra derrota más para el quipo",
         "fecha":"14/06/2023",
         "hora":"13:16",
         "tipo":"hockeySobreCesped"
@@ -378,25 +343,18 @@ noticias([
         "tipo":"futbol"
     },
     {
-        "titulo":"Noticia 10",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "titulo":"lo tenemos aca",
+        "cuerpo":"nada que decir nada que agregar ,ya salio campeon",
         "fecha":"14/06/2023",
         "hora":"13:16",
         "tipo":"boxeo"
     },
     {
-        "titulo":"Noticia 7",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "titulo":"lo tenemos aca a problema",
+        "cuerpo":"no hay noticias hace meses, eso preocupa a los nadadores",
         "fecha":"14/06/2023",
         "hora":"13:16",
         "tipo":"natacion"
-    },
-    {
-        "titulo":"Noticia 5",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
-        "tipo":"handball"
     },
     {
         "titulo":"Noticia 1 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
@@ -406,32 +364,18 @@ noticias([
         "tipo":"general"
     },
     {
-        "titulo":"Noticia 11",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "titulo":"nada que decir nada que comentar",
+        "cuerpo":"nada que decir nada que comentar, dijo despues de la derrota",
         "fecha":"14/06/2023",
         "hora":"13:16",
         "tipo":"karate"
     },
     {
-        "titulo":"Noticia 4",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
-        "tipo":"basquet"
-    },
-    {
-        "titulo":"Noticia 3",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "titulo":"nadie se quiere hacer cargo",
+        "cuerpo":"Despues de la derrota hubo un tumulto de chicos que se largaron a pelear a puño limpio.",
         "fecha":"14/06/2023",
         "hora":"13:16",
         "tipo":"voley"
-    },
-    {
-        "titulo":"Noticia 9",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
-        "tipo":"ajedrez"
     },
     {
         "titulo":"se posterga el partido de la Sub-07 2 horas",
@@ -441,123 +385,95 @@ noticias([
         "tipo":"futbol"
     },
     {
-        "titulo":"Noticia 6",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "titulo":"el ranking nacional",
+        "cuerpo":"La tenista quedo cuarta(4)en el ranking nacional y clasifico para el open sudamericano.",
         "fecha":"14/06/2023",
         "hora":"13:16",
         "tipo":"tenis"
     },
     {
-        "titulo":"Noticia 5",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "titulo":"el ranking nacional",
+        "cuerpo":"no aparecemos en el el ranking nacional",
         "fecha":"14/06/2023",
         "hora":"13:16",
         "tipo":"handball"
     },
     {
-        "titulo":"Noticia 8",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "titulo":"no somos capaces de hacer nada",
+        "cuerpo":"otra derrota más para el quipo",
         "fecha":"14/06/2023",
         "hora":"13:16",
         "tipo":"hockeySobreCesped"
     },
     {
-        "titulo":"Noticia 4",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "titulo":"Noticia de basquet",
+        "cuerpo":"suben los animos para el proximo encuentro",
         "fecha":"14/06/2023",
         "hora":"13:16",
         "tipo":"basquet"
     },
     {
-        "titulo":"Noticia 6",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "titulo":"el ranking nacional",
+        "cuerpo":"La tenista quedo cuarta(4)en el ranking nacional y clasifico para el open sudamericano.",
         "fecha":"14/06/2023",
         "hora":"13:16",
         "tipo":"tenis"
     },
     {
-        "titulo":"Noticia 7",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "titulo":"problemas problemas",
+        "cuerpo":"no hay noticias hace meses, eso preocupa a los nadadores",
         "fecha":"14/06/2023",
         "hora":"13:16",
         "tipo":"natacion"
     },
     {
-        "titulo":"Noticia 10",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "titulo":"con fe , solo con fe",
+        "cuerpo":"se gana no sera muy complicado",
         "fecha":"14/06/2023",
         "hora":"13:16",
         "tipo":"boxeo"
     },
     {
-        "titulo":"Noticia 11",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "titulo":"se quejan de las condiciones del establecimiento",
+        "cuerpo":"los encargados de karate se quejan de las condiciones del establecimiento",
         "fecha":"14/06/2023",
         "hora":"13:16",
         "tipo":"karate"
     },
     {
-        "titulo":"Noticia 9",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
-        "tipo":"ajedrez"
-    },
-    {
-        "titulo":"Noticia 3",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "titulo":"nadie se quiere hacer cargo",
+        "cuerpo":"Despues de la derrota hubo un tumulto de chicos que se largaron a pelear a puño limpio.",
         "fecha":"14/06/2023",
         "hora":"13:16",
         "tipo":"voley"
     },
     {
-        "titulo":"Noticia 4",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "titulo":"se alegran de las condiciones del establecimiento",
+        "cuerpo":"estamos estupendo aca",
         "fecha":"14/06/2023",
         "hora":"13:16",
         "tipo":"basquet"
     },
     {
-        "titulo":"Noticia 5",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "titulo":"los de handball le responden ",
+        "cuerpo":"pero nosotros estamos mal, respondio a los basquebolisatas",
         "fecha":"14/06/2023",
         "hora":"13:16",
         "tipo":"handball"
     },
     {
-        "titulo":"Noticia 9",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "titulo":"Alejandro Bottero",
+        "cuerpo":"Alejandro Bottero, vueve despues de haber sido cambeon nacional de Ajedrez",
         "fecha":"14/06/2023",
         "hora":"13:16",
         "tipo":"ajedrez"
     },
     {
-        "titulo":"Noticia 5",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
-        "tipo":"handball"
-    },
-    {
-        "titulo":"Noticia 11",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
-        "tipo":"karate"
-    },
-    {
-        "titulo":"Noticia 3",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "titulo":"nadie se quiere hacer cargo",
+        "cuerpo":"Despues de la derrota hubo un tumulto de chicos que se largaron a pelear a puño limpio.",
         "fecha":"14/06/2023",
         "hora":"13:16",
         "tipo":"voley"
-    },
-    {
-        "titulo":"Noticia 10",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
-        "tipo":"boxeo"
     },
     {
         "titulo":"Falta poco",
@@ -574,64 +490,36 @@ noticias([
         "tipo":"general"
     },
     {
-        "titulo":"Noticia 6",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "titulo":"clasifico para el open sudamericano",
+        "cuerpo":"La tenista quedo cuarta(4)en el ranking nacional y clasifico para el open sudamericano.",
         "fecha":"14/06/2023",
         "hora":"13:16",
         "tipo":"tenis"
     },
     {
-        "titulo":"Noticia 11",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
-        "tipo":"karate"
-    },
-    {
-        "titulo":"Noticia 7",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "titulo":"clasifico para al sudamericano",
+        "cuerpo":"noticias del año pasado",
         "fecha":"14/06/2023",
         "hora":"13:16",
         "tipo":"natacion"
     },
     {
-        "titulo":"Noticia 10",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
-        "tipo":"boxeo"
-    },
-    {
-        "titulo":"Noticia 9",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "titulo":"Alejandro Bottero",
+        "cuerpo":"Alejandro Bottero, vueve despues de haber sido cambeon nacional de Ajedrez",
         "fecha":"14/06/2023",
         "hora":"13:16",
         "tipo":"ajedrez"
     },
     {
-        "titulo":"Noticia 8",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "titulo":"derrota derrota derrota",
+        "cuerpo":"otra derrota más para el quipo",
         "fecha":"14/06/2023",
         "hora":"13:16",
         "tipo":"hockeySobreCesped"
     },
     {
-        "titulo":"Noticia 11",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
-        "tipo":"karate"
-    },
-    {
-        "titulo":"Noticia 3",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
-        "tipo":"voley"
-    },
-    {
-        "titulo":"Noticia 7",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "titulo":"se preocupan, no hay noticias de nada",
+        "cuerpo":"no hay noticias hace meses, eso preocupa a los nadadores",
         "fecha":"14/06/2023",
         "hora":"13:16",
         "tipo":"natacion"
