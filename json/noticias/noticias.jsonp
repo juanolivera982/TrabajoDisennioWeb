@@ -7,8 +7,8 @@ noticias([
         "tipo":"general"
     },
     {
-        "titulo":"Noticia 2",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "titulo":"fubol",
+        "cuerpo":"Jugaron como nunca, perdieron como ciempre",
         "fecha":"14/06/2023",
         "hora":"13:16",
         "tipo":"futbol"
@@ -112,8 +112,8 @@ noticias([
         "tipo":"natacion"
     },
     {
-        "titulo":"Noticia 2",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "titulo":"estamos en crisi futbolisticamente",
+        "cuerpo":"estamos mal pero saldremos adelante",
         "fecha":"14/06/2023",
         "hora":"13:16",
         "tipo":"futbol"
@@ -210,8 +210,8 @@ noticias([
         "tipo":"karate"
     },
     {
-        "titulo":"Noticia 2",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "titulo":"se gano, pero",
+        "cuerpo":"se gano, pero no salen del pozo, estan ultimo a pesar de golear",
         "fecha":"14/06/2023",
         "hora":"13:16",
         "tipo":"futbol"
@@ -280,8 +280,8 @@ noticias([
         "tipo":"hockeySobreCesped"
     },
     {
-        "titulo":"Noticia 2",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "titulo":"se juega el clasico",
+        "cuerpo":"el domingo se juega el clasico, a las 14:45, enterate de mas ",
         "fecha":"14/06/2023",
         "hora":"13:16",
         "tipo":"futbol"
@@ -371,8 +371,8 @@ noticias([
         "tipo":"hockeySobreCesped"
     },
     {
-        "titulo":"Noticia 2",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "titulo":"Ya casi campeon la Sub-05",
+        "cuerpo":"los niños ganan demaciado partidos, podran salir campeon dependiendo de un resultado de esta semana",
         "fecha":"14/06/2023",
         "hora":"13:16",
         "tipo":"futbol"
@@ -434,8 +434,8 @@ noticias([
         "tipo":"ajedrez"
     },
     {
-        "titulo":"Noticia 2",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "titulo":"se posterga el partido de la Sub-07 2 horas",
+        "cuerpo":"se postergara el partido de la sub-07 a las 12:00hs",
         "fecha":"14/06/2023",
         "hora":"13:16",
         "tipo":"futbol"
@@ -560,8 +560,8 @@ noticias([
         "tipo":"boxeo"
     },
     {
-        "titulo":"Noticia 2",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "titulo":"Falta poco",
+        "cuerpo":"los chicos de dicen que saldran campeon, lo prometieron a todo el mundo",
         "fecha":"14/06/2023",
         "hora":"13:16",
         "tipo":"futbol"
