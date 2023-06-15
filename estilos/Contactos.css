@@ -34,8 +34,14 @@ body{
 	align-items: center;
 }
 #imgContactos img{
-	width: 100%;
+	width: 50%;
 	padding-right: .5rem;
+}
+.form-label{
+	margin-bottom:.25rem;
+}
+.descripcionFormulario{
+	color:rgb(255, 255, 255);
 }
 .formulario_contactos{
 	height: auto;
