@@ -29,9 +29,15 @@ body{
 	margin-right: auto;
 	margin-top: 50px;
 	margin-bottom: 50px;
-	width: 50%;
+	width: 65%;
 	border-radius: 10px;
-	background-color: #212529;
+	background: none;
+}
+#formularioInscripcion input{
+	width: 100%;
+}
+#formularioInscripcion .botonRadio{
+	width: auto;
 }
 
 .botonRadio{
@@ -45,7 +51,6 @@ body{
 		position: relative;
 		display: inline-block;
 		width: 100%;
-		background-color: #212529;
 		overflow: auto;
 		margin-bottom: 0;
 	}
