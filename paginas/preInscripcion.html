@@ -99,63 +99,67 @@
 	<section class="relleno"></section>
 
 	<!--Fin nav-->
-
-	<div id="contenedorFormulario" class="row container-fluid">
-		<form name="formulario" id="formularioInscripcion" class="col-6" method="get" action="mailto:">
-
-			<label for="nombre" class="item" >Nombre:</label>
-			<input id="nombre" type="text" class="col-6 item" required>
-
-			<label for="apellido" class="item">Apellido:</label>
-			<input id="apellido" type="text" class="col-6 item" required>
-
-			<label for="fechaN" class="item">Fecha De Nacimiento:</label>
-			<input id="fechaN" type="date" class="col-6 item" required>
-
-			<label for="genero" class="item">Género:</label>
-
-			<div id="genero-radio">
-				<div>
-					<label for="masculino" class="botonRadio item">Masculino</label>
-					<input id="masculino" name="genero" type="radio" value="m" class="botonRadio item" required>
+	<section class="col-12">
+		<div class="col-1"></div>
+		<div id="contenedorFormulario" class="row container-fluid col-10">
+			<form name="formulario" id="formularioInscripcion" class="col-10" method="get" action="mailto:">
+	
+				<label for="nombre" class="item" >Nombre:</label>
+				<input id="nombre" type="text" class="item" required>
+	
+				<label for="apellido" class="item">Apellido:</label>
+				<input id="apellido" type="text" class="item" required>
+	
+				<label for="fechaN" class="item">Fecha De Nacimiento:</label>
+				<input id="fechaN" type="date" class="item" required>
+	
+				<label for="genero" class="item">Género:</label>
+	
+				<div id="genero-radio">
+					<div>
+						<label for="masculino" class="botonRadio item">Masculino</label>
+						<input id="masculino" name="genero" type="radio" value="m" class="botonRadio item" required>
+					</div>
+	
+					<div>
+						<label for="femenino" class="botonRadio item">Femenino</label>
+						<input id="femenino" name="genero" type="radio" value="f" class="botonRadio item" required>
+					</div>
 				</div>
-
-				<div>
-					<label for="femenino" class="botonRadio item">Femenino</label>
-					<input id="femenino" name="genero" type="radio" value="f" class="botonRadio item" required>
-				</div>
-			</div>
-
-			<select id="genero-select" class="col-6 item" required>
-				<option value="masculino">Masculino</option>
-				<option value="femenino">Femenino</option>
-			</select>
-
-			<label for="email" class="item">E-mail:</label>
-			<input id="email" type="mail" class="col-6 item" required>
-
-			<label for="telefono" class="item">Teléfono:</label>
-			<input id="telefono" type="tel" class="col-6 item" required>
-
-			<label for="deporte" class="item">Deporte:</label>
-
-			<select id="deporte" class="col-6 item" required>
-				<option value="futbol">Fútbol</option>
-				<option value="boley">Voley</option>
-				<option value="basquet">Basquet</option>
-				<option value="handball">Handball</option>
-				<option value="tenis">Tenis</option>
-				<option value="natacion">Natación</option>
-				<option value="hokey">Hokey Sobre Césped</option>
-				<option value="ajedrez">Ajedrez</option>
-				<option value="boxeo">Boxeo</option>
-				<option value="karate">Karate</option>
-			</select>
-
-			<input id="enviar" type="submit" value="Enviar" class="col-4 item">
-
-		</form>
-	</div>
+	
+				<select id="genero-select" class="item" required>
+					<option value="masculino">Masculino</option>
+					<option value="femenino">Femenino</option>
+				</select>
+	
+				<label for="email" class="item">E-mail:</label>
+				<input id="email" type="mail" class="item" required>
+	
+				<label for="telefono" class="item">Teléfono:</label>
+				<input id="telefono" type="tel" class="item" required>
+	
+				<label for="deporte" class="item">Deporte:</label>
+	
+				<select id="deporte" class="item" required>
+					<option value="futbol">Fútbol</option>
+					<option value="boley">Voley</option>
+					<option value="basquet">Basquet</option>
+					<option value="handball">Handball</option>
+					<option value="tenis">Tenis</option>
+					<option value="natacion">Natación</option>
+					<option value="hokey">Hokey Sobre Césped</option>
+					<option value="ajedrez">Ajedrez</option>
+					<option value="boxeo">Boxeo</option>
+					<option value="karate">Karate</option>
+				</select>
+	
+				<input id="enviar" type="submit" value="Enviar" class="item">
+	
+			</form>
+		</div>
+		<div class="col-1"></div>
+	</section>
+	
 
 	<footer class="container-fluid">
         <div class="row">
