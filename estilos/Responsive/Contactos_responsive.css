@@ -3,6 +3,15 @@
     .rellenoContactos{
         height: 15vh;
     }
+    #imgContactos{
+        display: none;
+    }
+    #contactos .col-5{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
 }
 
 /* para 625*/
