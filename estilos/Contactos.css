@@ -1,0 +1,49 @@
+body{
+    background-color: #2a2a2a;
+    background-image: url("data:image/svg+xml,%3Csvg width='42' height='44' viewBox='0 0 42 44' xmlns='http://www.w3.org/2000/svg'%3E%3Cg id='Page-1' fill='none' fill-rule='evenodd'%3E%3Cg id='brick-wall' fill='%236e6e6e' fill-opacity='0.3'%3E%3Cpath d='M0 0h42v44H0V0zm1 1h40v20H1V1zM0 23h20v20H0V23zm22 0h20v20H22V23z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+}
+
+/*Estylos Asides*/
+.asideContactos{
+	padding:0;
+	background-color: initial;
+}
+#imgAside1{
+	height:100%;
+	padding-left:5px;
+}
+#imgAside2{
+	height: 100%;
+	padding-right:5px;
+
+}
+/*Fin estilos Asides*/
+
+/*Estilos Contactos*/
+#contactos{
+	display: flex;
+	align-items: center;
+	background-color: initial;
+	justify-content: flex-start;
+	padding:0 .5rem;
+	padding-bottom:.5rem;
+}
+#imgContactos{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+#imgContactos img{
+	width: 100%;
+	padding-right: .5rem;
+}
+.formulario_contactos{
+	height: auto;
+	color:#fff;
+	margin:0;
+	padding: 10px 0;
+}
+.formulario_contactos form .mb-3{
+	width: 100%;
+}
+/*Fin estilos Contactos*/
