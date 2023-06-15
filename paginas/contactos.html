@@ -98,33 +98,32 @@
 
     <section class="container-fluid">
 		<div class="row">
-            <div class="col-2 asideContactos"></div>
-			<div class="col-8" id="contactos">
-				<div class="col-3" id="imgContactos">
+            <div class="col-12" id="contactos">
+				<div class="col-6" id="imgContactos">
 					<img src="../imagenes/LogoClubColor.png" alt="LogoClubContacto">
 				</div>
-				<div class="col-9 formulario_contactos">
-					<form>
+				<div class="col-5 formulario_contactos">
+					<form method="post" id="formularioContacto" name="formularioContacto">
 						<div class="mb-3">
 						  <label for="correoDeContacto" class="form-label">Correo Electronico</label>
-						  <input type="text" class="form-control" id="correoDeContacto" aria-describedby="descripcionCorreo">
-						  <div id="descripcionCorreo" class="form-text">Ingrese su correo de contacto</div>
+						  <input type="text" class="form-control" id="correoDeContacto" name="correoDeContacto" aria-describedby="descripcionCorreo" required="true">
+						  <div class="form-text descripcionFormulario">Ingrese su correo de contacto</div>
 						</div>
 						<div class="mb-3">
 						  <label for="asuntoContacto" class="form-label">Asunto</label>
-						  <input type="text" class="form-control" id="asuntoContacto" aria-describedby="descripcionAsunto">
-						  <div id="descripcionAsunto" class="form-text">Ingrese el asunto por el que nos desea contactar</div>
+						  <input type="text" class="form-control" id="asuntoContacto" name="asuntoContacto" aria-describedby="descripcionAsunto" required="true">
+						  <div class="form-text descripcionFormulario">Ingrese el asunto por el que nos desea contactar</div>
 						</div>
 						<div class="mb-3">
 						  <label for="mensajeContacto" class="form-label">Mensaje</label>
-						  <textarea class="form-control" id="mensajeContacto" aria-describedby="descripcionMensaje"></textarea>
-						  <div id="descripcionMensaje" class="form-text">Ingrese un breve mensaje que describa la razon por la que nos contacta</div>
+						  <textarea class="form-control" id="mensajeContacto" name="mensajeContacto" aria-describedby="descripcionMensaje" required="true"></textarea>
+						  <div class="form-text descripcionFormulario">Ingrese un breve mensaje que describa la razon por la que nos contacta</div>
 						</div>
-						<button type="submit" class="btn btn-primary">Enviar Mensaje</button>
+						<button type="submit" class="btn btn-primary" id="botonContacto">Enviar Mensaje</button>
 					  </form>
 				</div>
+				<div class="col-1"></div>
 			</div>
-            <div class="col-2 asideContactos"></div>
 		</div>
 	</section>
 
@@ -212,7 +211,8 @@
 	</footer>
   
 	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
-	<script src="src/pagina.js"></script>
+	<script src="../src/contactos.js"></script>
+	<script src="../src/validacionFormulario.js"></script>
   
 </body>
 </html>
