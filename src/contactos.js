@@ -1,3 +1,6 @@
+
+
+
 function iniciar()
 {
 	var boton = document.getElementById("botonContacto");
