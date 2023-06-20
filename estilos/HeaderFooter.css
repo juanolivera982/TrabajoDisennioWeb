@@ -121,7 +121,7 @@ button:focus:not(:focus-visible) {
 footer{
     background-color: #3a3a3a;
     margin:0;
-    margin-top: .5rem;
+    margin-top: 1.5em;
 }
 footer a{
     text-decoration: none;
