@@ -1,14 +1,14 @@
 logoClub([
     {
         "formato":"SVG",
-        "imagen":"../../imagenes/LogoClub.svg"
+        "imagen":"./imagenes/LogoClub.svg"
     },
     {
         "formato":"png",
-        "imagen":"../../imagenes/LogoClub.png"
+        "imagen":"./imagenes/LogoClub.png"
     },
     {
         "formato":"pngColor",
-        "imagen":"../../imagenes/LogoClubColor.png"
+        "imagen":"./imagenes/LogoClubColor.png"
     }
 ]);
