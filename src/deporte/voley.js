@@ -21,7 +21,7 @@ function cargarPortada(){
     else{
         var logoColor = imgLogo => imgLogo.formato=="pngColor";
         var logo = app.logoClub.filter(logoColor);
-        portadaHtml+="<img id='logoColor' src='"+logo[0].imagen+"'/>";
+        portadaHtml+="<img id='logoColor' src='../."+logo[0].imagen+"'/>";
     }
     document.getElementById("contenedorImagenPrincipal").innerHTML=portadaHtml;
 };
