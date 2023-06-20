@@ -40,6 +40,9 @@ body{
 	width: auto;
 	display: inline;
 }
+#formularioInscripcion #deporte{
+ background-color:#fff;
+}
 
 
 @media (max-width: 580px){
