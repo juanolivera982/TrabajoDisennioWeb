@@ -38,9 +38,6 @@ body{
 }
 #formularioInscripcion .botonRadio{
 	width: auto;
-}
-
-.botonRadio{
 	display: inline;
 }
 
@@ -73,6 +70,7 @@ body{
 		display: inline;
 	}
 	#genero-radio{
-		display: none;
-	}
+  display: none;
+  background-color:#fff;
+ }
 }
