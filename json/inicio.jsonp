@@ -1,0 +1,35 @@
+inicioImgs([
+    {
+        "imagen":"./imagenes/futbol/imgFutbol.jpg"
+    },
+    {
+        "imagen":"./imagenes/voley/imgVolley.jpg"
+    },
+    {
+        "imagen":"./imagenes/basquet/imgBasket.jpg"
+    },
+    {
+        "imagen":"./imagenes/handball/imgHandBall.jpg"
+    },
+    {
+        "imagen":"./imagenes/tenis/imgTenis.jpg"
+    },
+    {
+        "imagen":"./imagenes/natacion/imgNatacion.jpg"
+    },
+    {
+        "imagen":"./imagenes/hokey cesped/field-hockey-1537470_1280.jpg"
+    },
+    {
+        "imagen":"./imagenes/ajedrez/imgAjedrez.jpg"
+    },
+    {
+        "imagen":"./imagenes/boxeo/imgBox.jpg"
+    },
+    {
+        "imagen":"./imagenes/karate/imgKarate.jpg"
+    },
+    {
+        "imagen":"./imagenes/atletismo/imgAtletismo.jpg"
+    }
+]);
