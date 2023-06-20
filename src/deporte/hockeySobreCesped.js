@@ -5,6 +5,9 @@ var hockeySobreCespedImgs = datos => {
 var logoClub = datos => {
     app.logoClub=datos;
 }
+var noticiasNuevas=datos=>{
+    app.noticiasNuevas=datos;
+}
 var noticias = datos => {
     app.noticias=datos;
 }
@@ -25,22 +28,47 @@ function cargarPortada(){
 window.addEventListener("load",cargarPortada);
 
 function cargarNoticia(){
-    var deporte=noticia => noticia.tipo=="hockeySobreCesped";
-    var formato=logo => logo.formato=="pngColor";
+    var deporte=noticia => noticia.tipo=="hockey sobre cesped";
     var noticiasDeporte=app.noticias.filter(deporte);
-    var logoColor=app.logoClub.filter(formato);
-    var htmlNoticia="";
-    console.log(htmlNoticia);
-    if(noticiasDeporte.length==0){
+    var noticiasNuevasDeporte=app.noticiasNuevas.filter(deporte);
+    if(noticiasDeporte.length==0&&noticiasNuevasDeporte.length==0){
         htmlNoticia="<div style='10vh'></div><div id='sinNoticias'><p>No hay noticias para mostrar</p></div>";
     }
     else{
-        noticiasDeporte.map(noticia=>{
-            htmlNoticia+="<div class='card mb-3'><div class='col-md-4'><div class='imagenNoticia'><img src='"+logoColor[0].imagen+"' class='img-fluid rounded-start' alt='logoClub'/></div><div class='tituloNoticia'><h5 class='card-title'>"+noticia.titulo+"</h5></div></div><div class='col-md-8'><div class='card-body'><p class='card-text'>"+noticia.cuerpo+"</p><a href='#' class='btn btn-primary'>Leer mas</a></div></div><div class='col-md-8'><div class='card-body'><p class='card-text'><small class='text-muted'>Fecha de publicacion: "+noticia.fecha+"</small></p></div></div></div>";
-            
-        });
+        var htmlNoticia="",index;
+        if(noticiasNuevasDeporte.length==0){
+            index=1;
+            noticiasDeporte.map(noticia=>{
+                htmlNoticia+="<div class='col-md-4' name='noticia' id='noticia-"+noticia.tipo+"-"+index+"'><div class='card h-100'><img src='../."+noticia.imagen+"' class='card-img-top' alt='Imagen no encontrada'/><div class='card-body'><h5 class='card-title'>"+noticia.titulo+"</h5><p class='card-text'>"+noticia.cuerpo+"</p></div><div class='card-footer'><small class='text-muted'>Fecha: "+noticia.fecha+"</small></div></div></div>";
+                index++;
+            });
+            document.getElementById("contenedorNoticias").innerHTML=htmlNoticia;
+        }
+        else{
+            if(noticiasNuevasDeporte.length==0){
+                index=1;
+                noticiasNuevasDeporte.map(noticia=>{
+                    htmlNoticia+="<div class='col-md-4' name='noticia' id='noticia-"+noticia.tipo+"-"+index+"'><div class='card h-100'><img src='../."+noticia.imagen+"' class='card-img-top' alt='Imagen no encontrada'/><div class='card-body'><h5 class='card-title'>"+noticia.titulo+"</h5><p class='card-text'>"+noticia.cuerpo+"</p></div><div class='card-footer'><small class='text-muted'>Fecha: "+noticia.fecha+"</small></div></div></div>";
+                    index++;
+                });
+                document.getElementById("contenedorNoticias").innerHTML=htmlNoticia;
+            }
+            else{
+                index=1;
+                noticiasNuevasDeporte.map(noticia=>{
+                    htmlNoticia+="<div class='col-md-4' name='noticia' id='noticia-"+noticia.tipo+"-"+index+"'><div class='card h-100'><img src='../."+noticia.imagen+"' class='card-img-top' alt='Imagen no encontrada'/><div class='card-body'><h5 class='card-title'>"+noticia.titulo+"</h5><p class='card-text'>"+noticia.cuerpo+"</p></div><div class='card-footer'><small class='text-muted'>Fecha: "+noticia.fecha+"</small></div></div></div>";
+                    index++;
+                });
+                noticiasDeporte.map(noticia=>{
+                    htmlNoticia+="<div class='col-md-4' name='noticia' id='noticia-"+noticia.tipo+"-"+index+"'><div class='card h-100'><img src='../."+noticia.imagen+"' class='card-img-top' alt='Imagen no encontrada'/><div class='card-body'><h5 class='card-title'>"+noticia.titulo+"</h5><p class='card-text'>"+noticia.cuerpo+"</p></div><div class='card-footer'><small class='text-muted'>Fecha: "+noticia.fecha+"</small></div></div></div>";
+                    index++;
+                });
+                document.getElementById("contenedorNoticias").innerHTML=htmlNoticia;
+            }
+        }
+        
     }
-    document.getElementById("noticias").innerHTML=htmlNoticia;
+    
 }
 window.addEventListener("load",cargarNoticia);
 

@@ -1,429 +1,126 @@
-const notaAjedrez=document.getElementById('noticia-aje');
+var app={};
+var noticias=datos=>{
+    app.noticias=datos;
+};
+var noticiasNuevas=datos=>{
+    app.noticiasNuevas=datos;
+};
 
-const notaBasquet=document.getElementById('noticia-bas');
-const notaBasquet2=document.getElementById('noticia-bas2');
+window.addEventListener("load",()=>{
+    var htmlNoticia="";
+    if((app.noticias.length)+(app.noticiasNuevas.length)==0){
+        htmlNoticia="<div style='10vh'></div><div id='sinNoticias'><p>No hay noticias para mostrar</p></div>";
+		document.getElementById("contenedorNoticias").innerHTML+=htmlNoticia;
+    }
+    else{
+        if(app.noticiasNuevas.length==0){
+            var idTipo=[["ajedrez",0],["basquet",0],["boxeo",0],["futbol",0],["handball",0],["hockey sobre cesped",0],["karate",0],["natacion",0],["tenis",0],["voley",0],["directiva",0]];
+            var index;
+            app.noticias.map(noticia=>{
+                index=0;
+                while(idTipo[index][0]!=noticia.tipo&&index<idTipo.length){
+                    index++;
+                };
+                if(index==idTipo.length){
+                    console.log("Error de Tipo");
+                }
+                else{
+                    idTipo[index].splice(1,1,(idTipo[index][1])+1);
+                    if(idTipo[index][0]=="hockey sobre cesped"){
+                        htmlNoticia+="<div class='col-md-4' name='noticia' id='noticia-hockeySobreCesped-"+(idTipo[index][1])+"'><div class='card h-100'><img src='."+noticia.imagen+"' class='card-img-top' alt='Imagen no encontrada'/><div class='card-body'><h5 class='card-title'>"+noticia.titulo+"</h5><p class='card-text'>"+noticia.cuerpo+"</p></div><div class='card-footer'><small class='text-muted'>"+noticia.tipo+"</small></div></div></div>";
+                    }
+                    else{
+                        htmlNoticia+="<div class='col-md-4' name='noticia' id='noticia-"+noticia.tipo+"-"+(idTipo[index][1])+"'><div class='card h-100'><img src='."+noticia.imagen+"' class='card-img-top' alt='Imagen no encontrada'/><div class='card-body'><h5 class='card-title'>"+noticia.titulo+"</h5><p class='card-text'>"+noticia.cuerpo+"</p></div><div class='card-footer'><small class='text-muted'>"+noticia.tipo+"</small></div></div></div>";
+                    }
+                };
+            });
+            document.getElementById("contenedorNoticias").innerHTML+=htmlNoticia;
+        }
+        else{
+            if(app.noticias.length==0){
+                var idTipo=[["ajedrez",0],["basquet",0],["boxeo",0],["futbol",0],["handball",0],["hockey sobre cesped",0],["karate",0],["natacion",0],["tenis",0],["voley",0],["directiva",0]];
+                var index;
+                app.noticiasNuevas.map(noticia=>{
+                    index=0;
+                    while(idTipo[index][0]!=noticia.tipo&&index<idTipo.length){
+                        index++;
+                    };
+                    if(index==idTipo.length){
+                        console.log("Error de Tipo");
+                    }
+                    else{
+                        idTipo[index].splice(1,1,(idTipo[index][1])+1);
+                        if(idTipo[index][0]=="hockey sobre cesped"){
+                            htmlNoticia+="<div class='col-md-4' name='noticia' id='noticia-hockeySobreCesped-"+(idTipo[index][1])+"'><div class='card h-100'><img src='."+noticia.imagen+"' class='card-img-top' alt='Imagen no encontrada'/><div class='card-body'><h5 class='card-title'>"+noticia.titulo+"</h5><p class='card-text'>"+noticia.cuerpo+"</p></div><div class='card-footer'><small class='text-muted'>"+noticia.tipo+"</small></div></div></div>";
+                        }
+                        else{
+                            htmlNoticia+="<div class='col-md-4' name='noticia' id='noticia-"+noticia.tipo+"-"+(idTipo[index][1])+"'><div class='card h-100'><img src='."+noticia.imagen+"' class='card-img-top' alt='Imagen no encontrada'/><div class='card-body'><h5 class='card-title'>"+noticia.titulo+"</h5><p class='card-text'>"+noticia.cuerpo+"</p></div><div class='card-footer'><small class='text-muted'>"+noticia.tipo+"</small></div></div></div>";
+                        }
+                    };
+                });
+                document.getElementById("contenedorNoticias").innerHTML+=htmlNoticia;
+            }
+            else{
+                var idTipo=[["ajedrez",0],["basquet",0],["boxeo",0],["futbol",0],["handball",0],["hockey sobre cesped",0],["karate",0],["natacion",0],["tenis",0],["voley",0],["directiva",0]];
+                var index;
+                app.noticiasNuevas.map(noticia=>{
+                    index=0;
+                    while(idTipo[index][0]!=noticia.tipo&&index<idTipo.length){
+                        index++;
+                    };
+                    if(index==idTipo.length){
+                        console.log("Error de Tipo");
+                    }
+                    else{
+                        idTipo[index].splice(1,1,(idTipo[index][1])+1);
+                        if(idTipo[index][0]=="hockey sobre cesped"){
+                            htmlNoticia+="<div class='col-md-4' name='noticia' id='noticia-hockeySobreCesped-"+(idTipo[index][1])+"'><div class='card h-100'><img src='."+noticia.imagen+"' class='card-img-top' alt='Imagen no encontrada'/><div class='card-body'><h5 class='card-title'>"+noticia.titulo+"</h5><p class='card-text'>"+noticia.cuerpo+"</p></div><div class='card-footer'><small class='text-muted'>"+noticia.tipo+"</small></div></div></div>";
+                        }
+                        else{
+                            htmlNoticia+="<div class='col-md-4' name='noticia' id='noticia-"+noticia.tipo+"-"+(idTipo[index][1])+"'><div class='card h-100'><img src='."+noticia.imagen+"' class='card-img-top' alt='Imagen no encontrada'/><div class='card-body'><h5 class='card-title'>"+noticia.titulo+"</h5><p class='card-text'>"+noticia.cuerpo+"</p></div><div class='card-footer'><small class='text-muted'>"+noticia.tipo+"</small></div></div></div>";
+                        }
+                    };
+                });
+                app.noticias.map(noticia=>{
+                    index=0;
+                    while(idTipo[index][0]!=noticia.tipo&&index<idTipo.length){
+                        index++;
+                    };
+                    if(index==idTipo.length){
+                        console.log("Error de Tipo");
+                    }
+                    else{
+                        idTipo[index].splice(1,1,(idTipo[index][1])+1);
+                        if(idTipo[index][0]=="hockey sobre cesped"){
+                            htmlNoticia+="<div class='col-md-4' name='noticia' id='noticia-hockeySobreCesped-"+(idTipo[index][1])+"'><div class='card h-100'><img src='."+noticia.imagen+"' class='card-img-top' alt='Imagen no encontrada'/><div class='card-body'><h5 class='card-title'>"+noticia.titulo+"</h5><p class='card-text'>"+noticia.cuerpo+"</p></div><div class='card-footer'><small class='text-muted'>"+noticia.tipo+"</small></div></div></div>";
+                        }
+                        else{
+                            htmlNoticia+="<div class='col-md-4' name='noticia' id='noticia-"+noticia.tipo+"-"+(idTipo[index][1])+"'><div class='card h-100'><img src='."+noticia.imagen+"' class='card-img-top' alt='Imagen no encontrada'/><div class='card-body'><h5 class='card-title'>"+noticia.titulo+"</h5><p class='card-text'>"+noticia.cuerpo+"</p></div><div class='card-footer'><small class='text-muted'>"+noticia.tipo+"</small></div></div></div>";
+                        }
+                    };
+                });
+                document.getElementById("contenedorNoticias").innerHTML+=htmlNoticia;
+            };
+        };
+    };
+});
 
-const notaFutbol=document.getElementById('noticia-fut');
-const notaFutbol2=document.getElementById('noticia-fut2');
-const notaFutbol3=document.getElementById('noticia-fut3');
-const notaFutbol4=document.getElementById('noticia-fut4');
 
-const notaBoxeo=document.getElementById('noticia-box');
-
-const notaDirectiva=document.getElementById('noticia-dir');
-const notaDirectiva2=document.getElementById('noticia-dir2');
-
-const notaHandball=document.getElementById('noticia-han');
-const notaHandball2=document.getElementById('noticia-han2');
-const notaHandball3=document.getElementById('noticia-han3');
-
-const notaHokey=document.getElementById('noticia-hok');
-
-const notaKarate=document.getElementById('noticia-kar');
-
-const notaNatacion=document.getElementById('noticia-nat');
-
-const notaTenis=document.getElementById('noticia-ten');
-const notaTenis2=document.getElementById('noticia-ten2');
-
-const notaVoley=document.getElementById('noticia-vol');
-const notaVoley2=document.getElementById('noticia-vol2');
-const notaVoley3=document.getElementById('noticia-vol3');
-
-const dejarNotaAjedrez= () => {
-    notaNatacion.style.display='none';
-
-    notaBasquet.style.display='none';
-    notaBasquet2.style.display='none';
-
-    notaFutbol.style.display='none';
-    notaFutbol2.style.display='none';
-    notaFutbol3.style.display='none';
-    notaFutbol4.style.display='none';
-
-    notaBoxeo.style.display='none';
-
-    notaDirectiva.style.display='none';
-    notaDirectiva2.style.display='none';
-
-    notaHandball.style.display='none';
-    notaHandball2.style.display='none';
-    notaHandball3.style.display='none';
-
-    notaHokey.style.display='none';
-
-    notaKarate.style.display='none';
-
-    notaTenis.style.display='none';
-    notaTenis2.style.display='none';
-
-    notaVoley.style.display='none';
-    notaVoley2.style.display='none';
-    notaVoley3.style.display='none';
-
-    notaAjedrez.style.display='';
+function dejarNoticia(tipo){
+    var noticias=document.getElementsByName("noticia");
+    noticias.forEach(noticia=>{
+        if(noticia.id.includes(tipo)){
+            document.getElementById(noticia.id).style.display="";
+        }
+        else{
+            document.getElementById(noticia.id).style.display="none";
+        };
+    });
 }
 
-const dejarNotaFutbol= () => {
-    notaAjedrez.style.display='none';
-
-    notaNatacion.style.display='none';
-
-    notaBasquet.style.display='none';
-    notaBasquet2.style.display='none';
-
-    notaBoxeo.style.display='none';
-
-    notaDirectiva.style.display='none';
-    notaDirectiva2.style.display='none';
-
-    notaHandball.style.display='none';
-    notaHandball2.style.display='none';
-    notaHandball3.style.display='none';
-
-    notaHokey.style.display='none';
-
-    notaKarate.style.display='none';
-
-    notaTenis.style.display='none';
-    notaTenis2.style.display='none';
-
-    notaVoley.style.display='none';
-    notaVoley2.style.display='none';
-    notaVoley3.style.display='none';
-
-    notaFutbol.style.display='';
-    notaFutbol2.style.display='';
-    notaFutbol3.style.display='';
-    notaFutbol4.style.display='';
-}
-const dejarNotaHanball= () => {
-    notaAjedrez.style.display='none';
-
-    notaNatacion.style.display='none';
-
-    notaBasquet.style.display='none';
-    notaBasquet2.style.display='none';
-
-    notaFutbol.style.display='none';
-    notaFutbol2.style.display='none';
-    notaFutbol3.style.display='none';
-    notaFutbol4.style.display='none';
-
-    notaBoxeo.style.display='none';
-
-    notaDirectiva.style.display='none';
-    notaDirectiva2.style.display='none';
-
-    notaHokey.style.display='none';
-
-    notaKarate.style.display='none';
-
-    notaTenis.style.display='none';
-    notaTenis2.style.display='none';
-
-    notaVoley.style.display='none';
-    notaVoley2.style.display='none';
-    notaVoley3.style.display='none';
-
-    notaHandball.style.display='';
-    notaHandball2.style.display='';
-    notaHandball3.style.display='';
-}
-const dejarNotaVoley= () => {
-    notaAjedrez.style.display='none';
-
-    notaNatacion.style.display='none';
-
-    notaBasquet.style.display='none';
-    notaBasquet2.style.display='none';
-
-    notaFutbol.style.display='none';
-    notaFutbol2.style.display='none';
-    notaFutbol3.style.display='none';
-    notaFutbol4.style.display='none';
-
-    notaBoxeo.style.display='none';
-
-    notaDirectiva.style.display='none';
-    notaDirectiva2.style.display='none';
-
-    notaHandball.style.display='none';
-    notaHandball2.style.display='none';
-    notaHandball3.style.display='none';
-
-    notaHokey.style.display='none';
-
-    notaKarate.style.display='none';
-
-    notaTenis.style.display='none';
-    notaTenis2.style.display='none';
-
-    notaVoley.style.display='';
-    notaVoley2.style.display='';
-    notaVoley3.style.display='';
-}
-const dejarNotaHokey= () => {
-    notaAjedrez.style.display='none';
-
-    notaNatacion.style.display='none';
-
-    notaBasquet.style.display='none';
-    notaBasquet2.style.display='none';
-
-    notaFutbol.style.display='none';
-    notaFutbol2.style.display='none';
-    notaFutbol3.style.display='none';
-    notaFutbol4.style.display='none';
-
-    notaBoxeo.style.display='none';
-
-    notaDirectiva.style.display='none';
-    notaDirectiva2.style.display='none';
-
-    notaHandball.style.display='none';
-    notaHandball2.style.display='none';
-    notaHandball3.style.display='none';
-
-    notaKarate.style.display='none';
-
-    notaTenis.style.display='none';
-    notaTenis2.style.display='none';
-
-    notaVoley.style.display='none';
-    notaVoley2.style.display='none';
-    notaVoley3.style.display='none';
-
-    notaHokey.style.display='';
-}
-const dejarNotaNatacion= () => {
-    notaAjedrez.style.display='none';
-
-    notaBasquet.style.display='none';
-    notaBasquet2.style.display='none';
-
-    notaFutbol.style.display='none';
-    notaFutbol2.style.display='none';
-    notaFutbol3.style.display='none';
-    notaFutbol4.style.display='none';
-
-    notaBoxeo.style.display='none';
-
-    notaDirectiva.style.display='none';
-    notaDirectiva2.style.display='none';
-
-    notaHandball.style.display='none';
-    notaHandball2.style.display='none';
-    notaHandball3.style.display='none';
-
-    notaHokey.style.display='none';
-
-    notaKarate.style.display='none';
-
-    notaTenis.style.display='none';
-    notaTenis2.style.display='none';
-
-    notaVoley.style.display='none';
-    notaVoley2.style.display='none';
-    notaVoley3.style.display='none';
-
-    notaNatacion.style.display='';
-}
-const dejarNotaTenis= () => {
-    notaAjedrez.style.display='none';
-
-    notaNatacion.style.display='none';
-
-    notaBasquet.style.display='none';
-    notaBasquet2.style.display='none';
-
-    notaFutbol.style.display='none';
-    notaFutbol2.style.display='none';
-    notaFutbol3.style.display='none';
-    notaFutbol4.style.display='none';
-
-    notaBoxeo.style.display='none';
-
-    notaDirectiva.style.display='none';
-    notaDirectiva2.style.display='none';
-
-    notaHandball.style.display='none';
-    notaHandball2.style.display='none';
-    notaHandball3.style.display='none';
-
-    notaHokey.style.display='none';
-
-    notaKarate.style.display='none';
-
-    notaVoley.style.display='none';
-    notaVoley2.style.display='none';
-    notaVoley3.style.display='none';
-
-    notaTenis.style.display='';
-    notaTenis2.style.display='';
-}
-const dejarNotaBasquet= () => {
-    notaAjedrez.style.display='none';
-
-    notaNatacion.style.display='none';
-
-    notaFutbol.style.display='none';
-    notaFutbol2.style.display='none';
-    notaFutbol3.style.display='none';
-    notaFutbol4.style.display='none';
-
-    notaBoxeo.style.display='none';
-
-    notaDirectiva.style.display='none';
-    notaDirectiva2.style.display='none';
-
-    notaHandball.style.display='none';
-    notaHandball2.style.display='none';
-    notaHandball3.style.display='none';
-
-    notaHokey.style.display='none';
-
-    notaKarate.style.display='none';
-
-    notaTenis.style.display='none';
-    notaTenis2.style.display='none';
-
-    notaVoley.style.display='none';
-    notaVoley2.style.display='none';
-    notaVoley3.style.display='none';
-
-    notaBasquet.style.display='';
-    notaBasquet2.style.display='';
-}
-const dejarNotaBoxeo= () => {
-    notaAjedrez.style.display='none';
-
-    notaNatacion.style.display='none';
-
-    notaBasquet.style.display='none';
-    notaBasquet2.style.display='none';
-
-    notaFutbol.style.display='none';
-    notaFutbol2.style.display='none';
-    notaFutbol3.style.display='none';
-    notaFutbol4.style.display='none';
-
-    notaDirectiva.style.display='none';
-    notaDirectiva2.style.display='none';
-
-    notaHandball.style.display='none';
-    notaHandball2.style.display='none';
-    notaHandball3.style.display='none';
-
-    notaHokey.style.display='none';
-
-    notaKarate.style.display='none';
-
-    notaTenis.style.display='none';
-    notaTenis2.style.display='none';
-
-    notaVoley.style.display='none';
-    notaVoley2.style.display='none';
-    notaVoley3.style.display='none';
-
-    notaBoxeo.style.display='';
-}
-const dejarNotaKarate= () => {
-    notaAjedrez.style.display='none';
-
-    notaNatacion.style.display='none';
-
-    notaBasquet.style.display='none';
-    notaBasquet2.style.display='none';
-
-    notaFutbol.style.display='none';
-    notaFutbol2.style.display='none';
-    notaFutbol3.style.display='none';
-    notaFutbol4.style.display='none';
-
-    notaBoxeo.style.display='none';
-
-    notaDirectiva.style.display='none';
-    notaDirectiva2.style.display='none';
-
-    notaHandball.style.display='none';
-    notaHandball2.style.display='none';
-    notaHandball3.style.display='none';
-
-    notaHokey.style.display='none';
-
-    notaTenis.style.display='none';
-    notaTenis2.style.display='none';
-
-    notaVoley.style.display='none';
-    notaVoley2.style.display='none';
-    notaVoley3.style.display='none';
-
-    notaKarate.style.display='';
-}
-const dejarNotaDirectiva= () => {
-    notaAjedrez.style.display='none';
-
-    notaNatacion.style.display='none';
-
-    notaBasquet.style.display='none';
-    notaBasquet2.style.display='none';
-
-    notaFutbol.style.display='none';
-    notaFutbol2.style.display='none';
-    notaFutbol3.style.display='none';
-    notaFutbol4.style.display='none';
-
-    notaBoxeo.style.display='none';
-
-    notaHandball.style.display='none';
-    notaHandball2.style.display='none';
-    notaHandball3.style.display='none';
-
-    notaHokey.style.display='none';
-
-    notaKarate.style.display='none';
-
-    notaTenis.style.display='none';
-    notaTenis2.style.display='none';
-
-    notaVoley.style.display='none';
-    notaVoley2.style.display='none';
-    notaVoley3.style.display='none';
-
-    notaDirectiva.style.display='';
-    notaDirectiva2.style.display='';
-}
-const reiniciar= () => {
-    notaAjedrez.style.display='';
-
-    notaNatacion.style.display='';
-
-    notaBasquet.style.display='';
-    notaBasquet2.style.display='';
-
-    notaFutbol.style.display='';
-    notaFutbol2.style.display='';
-    notaFutbol3.style.display='';
-    notaFutbol4.style.display='';
-
-    notaBoxeo.style.display='';
-
-    notaDirectiva.style.display='';
-    notaDirectiva2.style.display='';
-
-    notaHandball.style.display='';
-    notaHandball2.style.display='';
-    notaHandball3.style.display='';
-
-    notaHokey.style.display='';
-
-    notaKarate.style.display='';
-
-    notaTenis.style.display='';
-    notaTenis2.style.display='';
-
-    notaVoley.style.display='';
-    notaVoley2.style.display='';
-    notaVoley3.style.display='';
+function reiniciar(){
+    var noticias=document.getElementsByName("noticia");
+    noticias.forEach(noticia=>{
+        document.getElementById(noticia.id).style.display="";
+    });
 }
