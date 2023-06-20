@@ -100,7 +100,8 @@ button:focus:not(:focus-visible) {
 		width:100%;
 	}
 	header #cuerpoNav .nav-link{
-		padding-left: 10px;
+		padding-left: 1%;
+		padding-right:1%;
 	}
 }
 /*Fin estilos de Nav*/
