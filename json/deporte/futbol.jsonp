@@ -1,17 +1,17 @@
 futbolImgs([
     {
-        "imagen":"../../imagenes/futbol/boy-7056003_1280.jpg"
+        "imagen":"https://live.staticflickr.com/3092/2557506437_e8ac5f3b4b_b.jpg"
     },
     {
-        "imagen":"../../imagenes/futbol/child-613199_1280.jpg"
+        "imagen":"https://files.laligasports.es/201604/1024x800_78bd46ec1511123902cimg5806.jpg"
     },
     {
-        "imagen":"../../imagenes/futbol/soccer-263716_1280.jpg"
+        "imagen":"https://www.pronto.es/uploads/s1/70/80/63/vi-futbolistaespanola480-zom-img.jpeg"
     },
     {
-        "imagen":"../../imagenes/futbol/sports-7405499_1280.jpg"
+        "imagen":"https://nltv.blob.core.windows.net/nltvprod/2019/08/5d509a45c85f1primer-torneo-de-futbol.jpeg"
     },
     {
-        "imagen":"../../imagenes/imgFutbol.jpg"
+        "imagen":"https://3.bp.blogspot.com/-OcgRdNkTkac/UX7SgVrBUgI/AAAAAAAACLA/39IkinRZOrY/s1600/DSC04913.JPG"
     }
 ]);

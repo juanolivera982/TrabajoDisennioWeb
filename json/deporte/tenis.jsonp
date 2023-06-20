@@ -1,17 +1,17 @@
 tenisImgs([
     {
-        "imagen":"../../imagenes/imgTenis.jpg"
+        "imagen":"https://aesguevillas.com/wp-content/uploads/2020/03/FOTO7-1813-scaled.jpg"
     },
     {
-        "imagen":"../../imagenes/tenis-poster.jpg"
+        "imagen":"https://medac.es/sites/default/files/images/tenis.jpg"
     },
     {
-        "imagen":"../../imagenes/tennis.jpg"
+        "imagen":"https://c.pxhere.com/photos/63/c9/anna_lena_groenefeld_australian_open_2012_melbourne_play_tennis_tennis-1342992.jpg!d"
     },
     {
-        "imagen":"../../imagenes/tenis/engineer-4922781_1280.jpg"
+        "imagen":"https://eventosmelilla.es/wp-content/uploads/2017/06/esc_tenis.jpg"
     },
     {
-        "imagen":"../../imagenes/tenis/tennis-841172_1280.jpg"
+        "imagen":"https://www.palermo.edu/Archivos_content/deportes/2018/SEP/190918tenlINT.jpg"
     }
 ]);

@@ -1,6 +1,9 @@
 natacionImgs([
     {
-        "imagen":"../../imagenes/imgNatacion.jpg"
+        "imagen":"http://www.natacion.com.ar/wp-content/uploads/2018/10/entrenamiento-en-nataci%C3%B3n-para-bajar-de-peso.jpg"
+    },
+    {
+        "imagen":"https://www.lifeder.com/wp-content/uploads/2020/01/natacion-4-1-1024x682.jpg"
     },
     {
         "imagen":"http://sialdeporte.com/wp-content/uploads/2018/03/que-es-la-nataci%C3%B3n7-1024x651.jpg"

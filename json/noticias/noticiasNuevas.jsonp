@@ -1,0 +1,82 @@
+noticiasNuevas([
+    {
+        "titulo":"Una promesa podra ser drafteado para la NBA",
+        "cuerpo":"el joven carmelo anthony despues de un gran torneo nacional,fue elegido por visores de la NBA para ser elegido en el DRAFT'23 de la NBA",
+        "imagen":"./imagenes/basquet/basketball-1642384_1280.jpg",
+        "fecha":"19/06/2023",
+        "hora":"12:20",
+        "tipo":"basquet"
+    },
+    {
+        "titulo":"Todo mal hacen aca",
+        "cuerpo":"\"Todo mal hacen aca, no se puede trabajar tranquilo, siempre en quilombos\" fueron las palabras de Santi strange tras la paqueña riña que se vivio este martes en el encuentro amistoso con el club \"Alas de Plata\"",
+        "imagen":"./imagenes/handball/ball.jpg",
+        "fecha":"19/06/2023",
+        "hora":"10:05",
+        "tipo":"handball"
+    },
+    {
+        "titulo":"\"No hay presupuesto\" la escusa del presidente",
+        "cuerpo":"Los encargados de karate se quejan de las condiciones del establecimiento.",
+        "imagen":"./imagenes/karate/karate-1665606_1280.jpg",
+        "fecha":"18/06/2023",
+        "hora":"11:02",
+        "tipo":"karate"
+    },
+    {
+        "titulo":"Nada que decir, no hay noticias",
+        "cuerpo":"No hay noticias hace meses, eso preocupa a los nadadores",
+        "imagen":"./imagenes/natacion/nata.jpg",
+        "fecha":"18/06/2023",
+        "hora":"10:13",
+        "tipo":"natacion"
+    },
+    {
+        "titulo":"Se postergaron los reclutamistos para categoria sub-5",
+        "cuerpo":"Se postergaron los reclutamientos para la categoria 2018, debido que tienen suficienteschicos en el plantel.",
+        "imagen":"./imagenes/futbol/child-613199_1280.jpg",
+        "fecha":"17/06/2023",
+        "hora":"12:01",
+        "tipo":"futbol"
+    },
+    {
+        "titulo":"Pre-inscribite en nustras diciplina",
+        "cuerpo":"A traves de la seccion preInscripcion, envia tus datos para el deporte que mas te interece, y te estaremos contactando via Correo Electronico para comunicarte si hay o no vacantes disponibles.",
+        "imagen":"./imagenes/directivos/calculator-1680905_1280.jpg",
+        "fecha":"17/06/2023",
+        "hora":"11:46",
+        "tipo":"directiva"
+    },
+    {
+        "titulo":"Queres saber cuanto cuesta alquilar la cancha de tenis para 4 personas(sin importar la edad)?.",
+        "cuerpo":"",
+        imagen:"./imagenes/tenis/tenis-poster.jpg",
+        "fecha":"17/06/2023",
+        "hora":"11:31",
+        "tipo":"tenis"
+    },
+    {
+        "titulo":"Practicá atletismo en nuestras instalaciones.",
+        "cuerpo":"Es para todas las edades, no importa si no sos de correr podes venir y practicar en nuestras intalaciones<br><strong> tener encuenta que las practicas seran por diferencias de edad</strong>",
+        "imagen":"./imagenes/atletismo/imgAtletismo.jpg",
+        "fecha":"17/06/2023",
+        "hora":"11:04",
+        "tipo":"directiva"
+    },
+    {
+        "titulo":"Inscribí a tus hijos.",
+        "cuerpo":"Inscribe a tus hijos en una o varias de las diciplinas que se encuentran disponibles.<br/>Tenemos varias intalaciones para todo publico, recorda que tene tiempo limitado, las inscripciones cierran el 10 de julio.<strong>Se volveran abrir recien en año proximo 1 de enero de 2024</strong>",
+        "imagen":"./imagenes/futbol/boy-7056003_1280.jpg",
+        "fecha":"17/06/2023",
+        "hora":"10:37",
+        "tipo":"directiva"
+    },
+    {
+        "titulo":"Picinas para todos",
+        "cuerpo":"El dia de ayer se dio la noticias que se habrira despues de muchos contratiempo espacio para nadar.<br/>Sera para todo publico, en el establecimiento se le indicara la picina que le corresponda segun su edad y el precio abonado ,auque también habra un espacio para toda la familia.<strong> El precio sera por persona, los menores a 5 años no pagan</strong>",
+        "imagen":"./imagenes/natacion/imgNatacion.jpg",
+        "fecha":"17/06/2023",
+        "hora":"10:01",
+        "tipo":"natacion"
+    }
+]);

@@ -1,527 +1,130 @@
 noticias([
     {
-        "titulo":"Noticia 1 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
-        "tipo":"general"
-    },
-    {
-        "titulo":"fubol",
-        "cuerpo":"Jugaron como nunca, perdieron como ciempre",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
-        "tipo":"futbol"
-    },
-    {
-        "titulo":"nadie se quiere hacer cargo",
-        "cuerpo":"Despues de la derrota hubo un tumulto de chicos que se largaron a pelear a puño limpio.",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
-        "tipo":"voley"
-    },
-    {
-        "titulo":"Una promesa podra ser drafteado para la NBA",
-        "cuerpo":"el joven carmelo anthony despues de un gran torneo nacional,fue elegido por visores de la NBA para ser elegido en el DRAFT'23 de la NBA",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
-        "tipo":"basquet"
-    },
-    {
-        "titulo":"Despues de perder",
-        "cuerpo":"Despues de perder, la pantilla (con varios suplentes) se lanzaron contra el arbitro,",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
-        "tipo":"handball"
-    },
-    {
-        "titulo":"Otro titulo",
-        "cuerpo":"Otro titulo más para el maximo campeon reguional,lo bueno es que lo tenemos aca, en nuestro equipo",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
-        "tipo":"tenis"
-    },
-    {
-        "titulo":"no hay noticias hace meses",
-        "cuerpo":"no hay noticias hace meses, eso preocupa a los nadadores",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
-        "tipo":"natacion"
-    },
-    {
-        "titulo":"otra derrota",
-        "cuerpo":"otra derrota más para el quipo",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
-        "tipo":"hockeySobreCesped"
-    },
-    {
-        "titulo":"Alejandro Bottero",
-        "cuerpo":"Alejandro Bottero, vueve despues de haber sido cambeon nacional de Ajedrez",
+        "titulo":"El Campeon Vuelve",
+        "cuerpo":"Alejandro Bottero, vueve despues de haber sido cambeon nacional de Ajedrez.",
+        "imagen":"./imagenes/ajedrez/chess-1080533_1280.jpg",
         "fecha":"14/06/2023",
         "hora":"13:16",
         "tipo":"ajedrez"
-    },
-    {
-        "titulo":"Ortiz se queda sin chances",
-        "cuerpo":"El boxeador Ortiz el MARABILLA se perdion contra el Colombiano Juan dominguez y quedo sin chances para disputar el titulo de campeon",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
-        "tipo":"boxeo"
-    },
-    {
-        "titulo":"Una promesa podra ser drafteado para la NBA",
-        "cuerpo":"el joven carmelo anthony despues de un gran torneo nacional,fue elegido por visores de la NBA para ser elegido en el DRAFT'23 de la NBA",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
-        "tipo":"basquet"
-    },
-    {
-        "titulo":"campeon reguional",
-        "cuerpo":"Otro titulo más para el maximo campeon reguional,lo bueno es que lo tenemos aca, en nuestro equipo",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
-        "tipo":"tenis"
-    },
-    {
-        "titulo":"Noticia 1 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
-        "tipo":"general"
-    },
-    {
-        "titulo":"Despues de perder",
-        "cuerpo":"Despues de perder, la pantilla (con varios suplentes) se lanzaron contra el arbitro,",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
-        "tipo":"handball"
-    },
-    {
-        "titulo":"preocupa a los nadadores",
-        "cuerpo":"no hay presupuesto, eso preocupa a los nadadores",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
-        "tipo":"natacion"
-    },
-    {
-        "titulo":"estamos en crisi futbolisticamente",
-        "cuerpo":"estamos mal pero saldremos adelante",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
-        "tipo":"futbol"
-    },
-    {
-        "titulo":"nadie se quiere hacer cargo",
-        "cuerpo":"Despues de la derrota hubo un tumulto de chicos que se largaron a pelear a puño limpio.",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
-        "tipo":"voley"
-    },
-    {
-        "titulo":"condiciones del establecimiento",
-        "cuerpo":"los encargados de karate se quejan de las condiciones del establecimiento",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
-        "tipo":"karate"
-    },
-    {
-        "titulo":"Alejandro Bottero",
-        "cuerpo":"Alejandro Bottero",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
-        "tipo":"ajedrez"
-    },
-    {
-        "titulo":"Ortiz se queda sin chances",
-        "cuerpo":"El boxeador Ortiz el MARABILLA se perdion contra el Colombiano Juan dominguez y quedo sin chances para disputar el titulo de campeon",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
-        "tipo":"boxeo"
-    },
-    {
-        "titulo":"Una promesa podra ser drafteado para la NBA",
-        "cuerpo":"el joven carmelo anthony despues de un gran torneo nacional,fue elegido por visores de la NBA para ser elegido en el DRAFT'23 de la NBA",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
-        "tipo":"basquet"
-    },
-    {
-        "titulo":"nadie se quiere hacer cargo",
-        "cuerpo":"Despues de la derrota hubo un tumulto de chicos que se largaron a pelear a puño limpio.",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
-        "tipo":"voley"
-    },
-    {
-        "titulo":"Noticia 1 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
-        "tipo":"general"
-    },
-    {
-        "titulo":"condiciones del establecimiento",
-        "cuerpo":"otra derrota más para el quipo",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
-        "tipo":"hockeySobreCesped"
-    },
-    {
-        "titulo":"condiciones del establecimiento",
-        "cuerpo":"Otro titulo más para el maximo campeon reguional,lo bueno es que lo tenemos aca, en nuestro equipo",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
-        "tipo":"tenis"
-    },
-    {
-        "titulo":"condiciones del establecimiento",
-        "cuerpo":"no hay noticias hace meses, eso preocupa a los nadadores",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
-        "tipo":"natacion"
     },
     {
         "titulo":"En busca de Nuevos Talentos",
-        "cuerpo":"El dia de ayer se hicieron prubas en diferentes localidades para probar a jovenes y unirlos a club",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
+        "cuerpo":"El dia de ayer se hicieron prubas en diferentes localidades para probar a jovenes y unirlos al club.",
+        "imagen":"./imagenes/basquet/sunset-5383040_1280.jpg",
+        "fecha":"12/06/2023",
+        "hora":"10:15",
         "tipo":"basquet"
     },
     {
-        "titulo":"condiciones del establecimiento",
-        "cuerpo":"los encargados de karate se quejan de las condiciones del establecimiento",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
-        "tipo":"karate"
-    },
-    {
-        "titulo":"se gano, pero",
-        "cuerpo":"se gano, pero no salen del pozo, estan ultimo a pesar de golear",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
-        "tipo":"futbol"
-    },
-    {
-        "titulo":"Noticia 10",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
+        "titulo":"Ortiz se queda sin chances",
+        "cuerpo":"El boxeador Ortiz el \"MARABILLA\" perdio contra el Colombiano Juan dominguez y quedo sin chances para disputar el titulo de campeon.",
+        "imagen":"./imagenes/boxeo/boxing-62867_1280.jpg",
+        "fecha":"11/06/2023",
+        "hora":"11:10",
         "tipo":"boxeo"
     },
     {
-        "titulo":"maximo campeon reguional",
-        "cuerpo":"Otro titulo más para el maximo campeon reguional,lo bueno es que lo tenemos aca, en nuestro equipo",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
-        "tipo":"tenis"
+        "titulo":"No habra danzas",
+        "cuerpo":"El precidente del club se decidio posponer la diciplina de danzas, a pezar de que el club estaba cerrando el semestre con los numeros en verdez.",
+        "imagen":"./imagenes/directivos/ballerina-5502254_1280.jpg",
+        "fecha":"11/06/2023",
+        "hora":"10:23",
+        "tipo":"directiva"
     },
     {
-        "titulo":"nadie se quiere hacer cargo",
-        "cuerpo":"Despues de la derrota hubo un tumulto de chicos que se largaron a pelear a puño limpio.",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
-        "tipo":"voley"
+        "titulo":"La economia del club esta en alza",
+        "cuerpo":"\"Vamos a cerrar los numeros en verde\" fueron las palabra del tesorero, sobre como esta la economia del club.",
+        "imagen":"./imagenes/directivos/calculator-1680905_1280.jpg",
+        "fecha":"09/06/2023",
+        "hora":"12:11",
+        "tipo":"directiva"
     },
     {
-        "titulo":"el equipo",
-        "cuerpo":"otra derrota más para el quipo",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
-        "tipo":"hockeySobreCesped"
-    },
-    {
-        "titulo":"no hay noticias hace meses",
-        "cuerpo":"no hay noticias hace meses, eso preocupa a los nadadores",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
-        "tipo":"natacion"
-    },
-    {
-        "titulo":"los encargados de karate",
-        "cuerpo":"los encargados de karate se quejan de las condiciones del establecimiento",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
-        "tipo":"karate"
-    },
-    {
-        "titulo":"los encargados",
-        "cuerpo":"otra derrota más para el quipo",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
-        "tipo":"hockeySobreCesped"
-    },
-    {
-        "titulo":"se juega el clasico",
-        "cuerpo":"el domingo se juega el clasico, a las 14:45, enterate de mas ",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
+        "titulo":"Se postergaron los reclutamistos para categoria sub-7",
+        "cuerpo":"Se postergaron los reclutamientos para la categoria 2016, debido a que tienen suficientes chicos en el plantel.",
+        "imagen":"./imagenes/futbol/boy-7056003_1280.jpg",
+        "fecha":"04/06/2023",
+        "hora":"10:32",
         "tipo":"futbol"
     },
     {
-        "titulo":"Noticia 1 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
-        "tipo":"general"
+        "titulo":"Perdio el liderato, con goleada incluida",
+        "cuerpo":"\"Las hernias\" acabaro siendo goleado 7-1 contra \"Desanfrenado\" y asi perdio el liderazgo, ahora esta a solo un punto del lider \"Club Atletico Sacacorchos\".",
+        "imagen":"./imagenes/futbol/soccer-263716_1280.jpg",
+        "fecha":"31/05/2023",
+        "hora":"10:06",
+        "tipo":"futbol"     
     },
     {
-        "titulo":"importa ganar",
-        "cuerpo":"nada que decir, sobre la pelea, pero gane, y eso es lo que importa",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
-        "tipo":"boxeo"
+        "titulo":"La reserva gano con goleada pero siguen el el pozo",
+        "cuerpo":"La reserva de las hernias acada de golear a la reserva de Desanfrenad 5-1 pero sigune ultimo con solo 4 puntos , 11 puntos por debajo del penultimo.",
+        "imagen":"./imagenes/futbol/sports-7405499_1280.jpg",
+        "fecha":"29/05/2023",
+        "hora":"10:43",
+        "tipo":"futbol"
     },
     {
-        "titulo":"Alejandro Bottero",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
-        "tipo":"ajedrez"
-    },
-    {
-        "titulo":"los encargados",
-        "cuerpo":"los encargados de karate festejan que regreso un compañero",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
-        "tipo":"karate"
-    },
-    {
-        "titulo":"gran polemica",
-        "cuerpo":"se pelearon por una boludes",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
+        "titulo":"Otra vez perdieron en medio de polemicas",
+        "cuerpo":"Despues de perder, la pantilla (con varios suplentes) se lanzaron contra el arbitro,<br>\"Nos perjudico en todo el partido\" dijo \"Almiron ojeda\" ayudante.",
+        "imagen":"./imagenes/handball/ball-1930198_1280.jpg",
+        "fecha":"27/56/2023",
+        "hora":"11:16",
         "tipo":"handball"
     },
     {
-        "titulo":"En busca de Nuevos Talentos",
-        "cuerpo":"El dia de ayer se hicieron prubas en diferentes localidades para probar a jovenes y unirlos a club",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
-        "tipo":"basquet"
-    },
-    {
-        "titulo":"lo tenemos aca",
-        "cuerpo":"Otro titulo más para el maximo campeon reguional,lo bueno es que lo tenemos aca, en nuestro equipo",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
-        "tipo":"tenis"
-    },
-    {
-        "titulo":"nadie se quiere hacer cargo",
-        "cuerpo":"Despues de la derrota hubo un tumulto de chicos que se largaron a pelear a puño limpio.",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
-        "tipo":"voley"
-    },
-    {
-        "titulo":"lo tenemos aca",
-        "cuerpo":"los encargados de karate se quejan de las condiciones del establecimiento",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
-        "tipo":"karate"
-    },
-    {
-        "titulo":"lo tenemos aca",
-        "cuerpo":"sera el mejor de todos",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
-        "tipo":"basquet"
-    },
-    {
-        "titulo":"Derrota derrota derrota",
-        "cuerpo":"otra derrota más para el quipo",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
-        "tipo":"hockeySobreCesped"
-    },
-    {
-        "titulo":"Ya casi campeon la Sub-05",
-        "cuerpo":"los niños ganan demaciado partidos, podran salir campeon dependiendo de un resultado de esta semana",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
-        "tipo":"futbol"
-    },
-    {
-        "titulo":"lo tenemos aca",
-        "cuerpo":"nada que decir nada que agregar ,ya salio campeon",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
-        "tipo":"boxeo"
-    },
-    {
-        "titulo":"lo tenemos aca a problema",
-        "cuerpo":"no hay noticias hace meses, eso preocupa a los nadadores",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
-        "tipo":"natacion"
-    },
-    {
-        "titulo":"Noticia 1 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
-        "tipo":"general"
-    },
-    {
-        "titulo":"nada que decir nada que comentar",
-        "cuerpo":"nada que decir nada que comentar, dijo despues de la derrota",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
-        "tipo":"karate"
-    },
-    {
-        "titulo":"nadie se quiere hacer cargo",
-        "cuerpo":"Despues de la derrota hubo un tumulto de chicos que se largaron a pelear a puño limpio.",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
-        "tipo":"voley"
-    },
-    {
-        "titulo":"se posterga el partido de la Sub-07 2 horas",
-        "cuerpo":"se postergara el partido de la sub-07 a las 12:00hs",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
-        "tipo":"futbol"
-    },
-    {
-        "titulo":"el ranking nacional",
-        "cuerpo":"La tenista quedo cuarta(4)en el ranking nacional y clasifico para el open sudamericano.",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
-        "tipo":"tenis"
-    },
-    {
-        "titulo":"el ranking nacional",
-        "cuerpo":"no aparecemos en el el ranking nacional",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
+        "titulo":"Hubo polemicas con chicos en las practicas",
+        "cuerpo":"Hubo una practica donde dos chicos se enfrentaron y discutiron, \"no paso a mayores\" dijo Franco",
+        "imagen":"./imagenes/hanball/handball.jpg",
+        "fecha":"18/05/2023",
+        "hora":"11:42",
         "tipo":"handball"
     },
     {
-        "titulo":"no somos capaces de hacer nada",
-        "cuerpo":"otra derrota más para el quipo",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
-        "tipo":"hockeySobreCesped"
+        "titulo":"Jugaron como nunca, perdieron como siempre",
+        "cuerpo":"Otra derrota más se suma para el quipo.</br>Segun palabras del entrenados, \"Es memorable lo mucho que han mejorado en sus jugadas y coordinacion como equipo\".",
+        "imagen":"./imagenes/hokey cesped/field-hockey-1537470_1280.jpg",
+        "fecha":"15/05/2023",
+        "hora":"11:22",
+        "tipo":"hockey sobre cesped"
     },
     {
-        "titulo":"Noticia de basquet",
-        "cuerpo":"suben los animos para el proximo encuentro",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
-        "tipo":"basquet"
-    },
-    {
-        "titulo":"el ranking nacional",
-        "cuerpo":"La tenista quedo cuarta(4)en el ranking nacional y clasifico para el open sudamericano.",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
+        "titulo":"Otro titulo más para el campeon",
+        "cuerpo":"Otro titulo más para el maximo campeon reguional, \"lo bueno es que lo tenemos aca, en nuestro equipo\" Santiago Varela",
+        "imagen":"./imagenes/tenis/engineer-4922781_1280.jpg",
+        "fecha":"13/05/2023",
+        "hora":"11:02",
         "tipo":"tenis"
     },
     {
-        "titulo":"problemas problemas",
-        "cuerpo":"no hay noticias hace meses, eso preocupa a los nadadores",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
-        "tipo":"natacion"
+        "titulo":"Clasifico para el sudamericano",
+        "cuerpo":"La tenista quedo cuarta(4) en el ranking nacional y clasifico para el open sudamericano.",
+        "imagen":"./imagenes/tenis/tennis-841172_1280.jpg",
+        "fecha":"10/05/2023",
+        "hora":"10:47",
+        "tipo":"tenis"
     },
     {
-        "titulo":"con fe , solo con fe",
-        "cuerpo":"se gana no sera muy complicado",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
-        "tipo":"boxeo"
-    },
-    {
-        "titulo":"se quejan de las condiciones del establecimiento",
-        "cuerpo":"los encargados de karate se quejan de las condiciones del establecimiento",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
-        "tipo":"karate"
-    },
-    {
-        "titulo":"nadie se quiere hacer cargo",
-        "cuerpo":"Despues de la derrota hubo un tumulto de chicos que se largaron a pelear a puño limpio.",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
+        "titulo":"Se macho la pelota",
+        "cuerpo":"Despues de la derrota hubo un tumulto de chicos que se largaron a pelear a puño limpio. \"Eran solo niño\", dijieron los padres. \"No es un lugar para que esto suceda\" agregaron los profesores.",
+        "imagen":"./imagenes/voley/ball-1930191_1280.jpg",
+        "fecha":"07/05/2023",
+        "hora":"10:23",
         "tipo":"voley"
     },
     {
-        "titulo":"se alegran de las condiciones del establecimiento",
-        "cuerpo":"estamos estupendo aca",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
-        "tipo":"basquet"
+        "titulo":"Nadie se quiere hacer cargo",
+        "cuerpo":"Nadie se quiere hacer cargo de la derrota, todos culpan al arbitro.",
+        "imagen":"./imagenes/voley/volleyball-520093_1280.jpg",
+        "fecha":"03/05/2023",
+        "hora":"11:40",
+        "tipo":"voley"
     },
     {
-        "titulo":"los de handball le responden ",
-        "cuerpo":"pero nosotros estamos mal, respondio a los basquebolisatas",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
+        "titulo":"Fuerte discución entre compañeros despues de perder",
+        "cuerpo":"Discuciones fuertes despues del partido, todos culpan al arbitro.",
+        "imagen":"./imagenes/voley/volleyball-89607_1280.jpg",
+        "fecha":"02/05/2023",
+        "hora":"11:42",
         "tipo":"handball"
-    },
-    {
-        "titulo":"Alejandro Bottero",
-        "cuerpo":"Alejandro Bottero, vueve despues de haber sido cambeon nacional de Ajedrez",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
-        "tipo":"ajedrez"
-    },
-    {
-        "titulo":"nadie se quiere hacer cargo",
-        "cuerpo":"Despues de la derrota hubo un tumulto de chicos que se largaron a pelear a puño limpio.",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
-        "tipo":"voley"
-    },
-    {
-        "titulo":"Falta poco",
-        "cuerpo":"los chicos de dicen que saldran campeon, lo prometieron a todo el mundo",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
-        "tipo":"futbol"
-    },
-    {
-        "titulo":"Noticia 1 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
-        "cuerpo":"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
-        "tipo":"general"
-    },
-    {
-        "titulo":"clasifico para el open sudamericano",
-        "cuerpo":"La tenista quedo cuarta(4)en el ranking nacional y clasifico para el open sudamericano.",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
-        "tipo":"tenis"
-    },
-    {
-        "titulo":"clasifico para al sudamericano",
-        "cuerpo":"noticias del año pasado",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
-        "tipo":"natacion"
-    },
-    {
-        "titulo":"Alejandro Bottero",
-        "cuerpo":"Alejandro Bottero, vueve despues de haber sido cambeon nacional de Ajedrez",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
-        "tipo":"ajedrez"
-    },
-    {
-        "titulo":"derrota derrota derrota",
-        "cuerpo":"otra derrota más para el quipo",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
-        "tipo":"hockeySobreCesped"
-    },
-    {
-        "titulo":"se preocupan, no hay noticias de nada",
-        "cuerpo":"no hay noticias hace meses, eso preocupa a los nadadores",
-        "fecha":"14/06/2023",
-        "hora":"13:16",
-        "tipo":"natacion"
     },
 ]);

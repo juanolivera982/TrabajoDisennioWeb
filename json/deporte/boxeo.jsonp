@@ -1,11 +1,14 @@
 boxeoImgs([
     {
-        "imagen":"../../imagenes/imgBox.jpg"
+        "imagen":"https://i.ytimg.com/vi/Q9dSrhliI1k/maxresdefault.jpg"
     },
     {
-        "imagen":"../../imagenes/boxing.jpg"
+        "imagen":"https://3.bp.blogspot.com/-UU9feoXyFwI/VGNS9vGiAvI/AAAAAAAAADc/Ax9KkvztJMw/s1600/33.jpg"
     },
     {
-        "imagen":"../../imagenes/boxeo/boxing-62867_1280.jpg"
+        "imagen":"https://zonadecombate.es/wp-content/uploads/2020/03/81464119_3137488422946797_7897074706942001152_o-768x576.jpg"
+    },
+    {
+        "imagen":"https://i0.wp.com/boxingshowcase.com/wp-content/uploads/2021/09/Semana-del-boxeo-04-1-scaled.jpg?resize=1024%2C768&ssl=1"
     }
 ]);
