@@ -74,7 +74,7 @@ noticias([
     {
         "titulo":"Hubo polemicas con chicos en las practicas",
         "cuerpo":"Hubo una practica donde dos chicos se enfrentaron y discutiron, \"no paso a mayores\" dijo Franco",
-        "imagen":"./imagenes/hanball/handball.jpg",
+        "imagen":"./imagenes/handball/handball.jpg",
         "fecha":"18/05/2023",
         "hora":"11:42",
         "tipo":"handball"
